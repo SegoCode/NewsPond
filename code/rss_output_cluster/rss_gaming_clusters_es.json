@@ -1,148 +1,47 @@
 [
   {
-    "title": "Nintendo anuncia dos Directs consecutivos para septiembre, incluido uno dedicado al 40 aniversario de Zelda",
-    "summary": "La compañía confirmó presentaciones el 8 y 9 de septiembre, con un evento especial centrado en la legendaria saga de Link.",
+    "title": "Medios especializados comparten sus partidas del fin de semana en secciones recurrentes de recomendaciones",
+    "summary": "Nintendo Life, Eurogamer y Rock Paper Shotgun publican sus habituales columnas sobre a qué están jugando sus redactores esta semana.",
     "source": [
       "nintendolife.com",
       "eurogamer.net",
-      "3djuegos.com",
-      "gematsu.com",
-      "gamespot.com",
-      "kotaku.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "The Blood of Dawnwalker: mods eliminan el temporizador y parche corrige errores técnicos",
-    "summary": "Los jugadores modifican el RPG para quitar la presión temporal mientras Rebel Wolves lanza actualizaciones para mejorar estabilidad.",
-    "source": [
-      "kotaku.com",
-      "pcgamer.com",
-      "3djuegos.com",
-      "eurogamer.net",
       "rockpapershotgun.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Policía de Miami-Dade rechaza colaboración con GTA 6 y denuncia que el juego glorifica el crimen",
-    "summary": "El sheriff y las autoridades locales se oponen a convertir partes de la ciudad en Vice City, alegando que contradice su labor diaria.",
-    "source": [
-      "pcgamer.com",
-      "kotaku.com",
-      "3djuegos.com",
-      "rockpapershotgun.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "La Casa Blanca lanza un clon de Tetris con contenido racista; Tetris Company y medios denuncian infracción",
-    "summary": "El sitio web oficial publicó juegos de arcade modificados con mensajes de odio, provocando respuestas legales y críticas.",
-    "source": [
-      "pcgamer.com",
-      "polygon.com",
-      "kotaku.com"
     ],
     "count": 3
   },
   {
-    "title": "Gamescom se disculpa por culpar a desarrolladores indie tras robos de hardware en el evento",
-    "summary": "La organización reconoció su respuesta insensible y prometió mejorar la seguridad tras las críticas generalizadas.",
-    "source": [
-      "3djuegos.com",
-      "pcgamer.com",
-      "kotaku.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Exodus, el sucesor espiritual de Mass Effect, impresiona en sus primeras impresiones con combates en gravedad cero",
-    "summary": "Periodistas destacan la familiaridad con la saga de BioWare pero elogian las mecánicas de romance y exploración espacial.",
+    "title": "Exdesarrollador de Old School RuneScape condenado por robar 400.000 dólares en oro virtual",
+    "summary": "Un antiguo empleado de Jagex fue sentenciado tras una investigación de ocho años por sustraer objetos y moneda del juego para venderlos ilegalmente.",
     "source": [
       "kotaku.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve filtró intencionalmente el tráiler cinemático de Left 4 Dead 2 para eludir la censura de la ESRB",
+    "summary": "El escritor del juego confirmó que la compañía publicó el vídeo por su cuenta tras la negativa del organismo de calificación a aprobar su contenido gráfico.",
+    "source": [
       "rockpapershotgun.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Veterano de BioWare asegura que el pesimismo sobre Mass Effect 4 es exagerado y el estudio no necesita consejos",
+    "summary": "Un exdiseñador del estudio defiende la capacidad del equipo para sacar adelante la nueva entrega sin interferencias externas.",
+    "source": [
+      "pcgamer.com",
       "eurogamer.net"
     ],
-    "count": 3
-  },
-  {
-    "title": "DLSS 5 llega a tarjetas AMD y genera debate por su impacto en el rendimiento en NBA 2K27 y No Man's Sky",
-    "summary": "La nueva tecnología de Nvidia muestra caídas de hasta 73% en FPS en algunos casos, mientras desarrolladores expresan preocupación.",
-    "source": [
-      "pcgamer.com",
-      "3djuegos.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nvidia adquiere Hugging Face por 13.000 millones para fortalecer su apuesta por la IA de código abierto",
-    "summary": "La compra busca integrar modelos abiertos en el ecosistema de Nvidia y acelerar el desarrollo de IA generativa.",
-    "source": [
-      "gamesindustry.biz",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox impone límites mensuales a Game Pass Cloud Gaming para garantizar fiabilidad y rendimiento",
-    "summary": "El servicio de streaming en la nube restringirá horas de uso, aunque la compañía asegura que afectará a una minoría de jugadores.",
-    "source": [
-      "eurogamer.net",
-      "gamesindustry.biz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Monster Hunter Wilds muestra el tráiler de su gran expansión Ascendance con mejoras para Espadas Duales",
-    "summary": "Capcom revela nuevo contenido masivo que incluye mecánicas de acción potenciadas y más monstruos.",
-    "source": [
-      "gematsu.com",
-      "nintendolife.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tim Schafer celebra la independencia de Double Fine de Xbox y anuncia el caótico Thank You Bus Driver",
-    "summary": "El estudio recupera su libertad creativa y presenta un juego de conducción de autobús con humor absurdo.",
-    "source": [
-      "kotaku.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Civilization 7 se puede jugar gratis por tiempo limitado en PC para celebrar el Día del Trabajo",
-    "summary": "La estrategia de Firaxis está disponible sin coste durante unos días para atraer nuevos jugadores tras su lanzamiento.",
-    "source": [
-      "pcgamer.com",
-      "3djuegos.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Dungeons & Dragons tendrá serie en Netflix sobre el vampiro Strahd con el director de The Prisoner of Azkaban",
-    "summary": "La plataforma adaptará el escenario de terror Ravenloft con Alfonso Cuarón como productor ejecutivo.",
+    "title": "GTA 6 impulsa las acciones de Xbox y PlayStation mientras se filtran detalles sobre su mecánica de repostaje y diseño de mundo abierto",
+    "summary": "El anuncio del juego ha sacado a las consolas de números rojos, y nuevos informes revelan que repostar durará unos 10 segundos y que Rockstar podría inspirarse en Zelda, aunque es improbable.",
     "source": [
       "3djuegos.com",
       "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PAX expande su presencia con un nuevo show de mesa en Texas y PAX Unplugged en Houston para 2027",
-    "summary": "Los organizadores buscan recuperar a los fans del sur de EE. UU. con eventos centrados en juegos de mesa.",
-    "source": [
-      "polygon.com",
-      "gamesindustry.biz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA 6 impulsa un aumento del 30% en ventas de consolas PS5 y Xbox en Reino Unido",
-    "summary": "El avance de Netflix y la expectativa general disparan la demanda de hardware antes del lanzamiento del juego.",
-    "source": [
-      "eurogamer.net",
-      "gamesindustry.biz"
     ],
     "count": 2
   }
