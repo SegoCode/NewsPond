@@ -1,148 +1,47 @@
 [
   {
-    "title": "Nintendo announces two consecutive Directs for September, including one dedicated to Zelda's 40th anniversary",
-    "summary": "The company confirmed presentations on September 8 and 9, with a special event focused on the legendary Link saga.",
+    "title": "Specialized outlets share their weekend playthroughs in recurring recommendation sections",
+    "summary": "Nintendo Life, Eurogamer, and Rock Paper Shotgun publish their regular columns about what their editors are playing this week.",
     "source": [
       "nintendolife.com",
       "eurogamer.net",
-      "3djuegos.com",
-      "gematsu.com",
-      "gamespot.com",
-      "kotaku.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "The Blood of Dawnwalker: mods remove timer and patch fixes technical errors",
-    "summary": "Players modify the RPG to remove time pressure while Rebel Wolves releases updates to improve stability.",
-    "source": [
-      "kotaku.com",
-      "pcgamer.com",
-      "3djuegos.com",
-      "eurogamer.net",
       "rockpapershotgun.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Miami-Dade Police reject collaboration with GTA 6 and denounce that the game glorifies crime",
-    "summary": "The sheriff and local authorities oppose turning parts of the city into Vice City, claiming it contradicts their daily work.",
-    "source": [
-      "pcgamer.com",
-      "kotaku.com",
-      "3djuegos.com",
-      "rockpapershotgun.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "The White House launches a Tetris clone with racist content; Tetris Company and media denounce infringement",
-    "summary": "The official website published modified arcade games with hate messages, prompting legal responses and criticism.",
-    "source": [
-      "pcgamer.com",
-      "polygon.com",
-      "kotaku.com"
     ],
     "count": 3
   },
   {
-    "title": "Gamescom apologizes for blaming indie developers after hardware thefts at the event",
-    "summary": "The organization acknowledged its insensitive response and promised to improve security following widespread criticism.",
-    "source": [
-      "3djuegos.com",
-      "pcgamer.com",
-      "kotaku.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Exodus, the spiritual successor to Mass Effect, impresses in first impressions with zero-gravity combat",
-    "summary": "Journalists highlight familiarity with the BioWare saga but praise romance mechanics and space exploration.",
+    "title": "Former Old School RuneScape developer sentenced for stealing $400,000 in virtual gold",
+    "summary": "A former Jagex employee was sentenced after an eight-year investigation for stealing in-game items and currency to sell them illegally.",
     "source": [
       "kotaku.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve intentionally leaked Left 4 Dead 2 cinematic trailer to bypass ESRB censorship",
+    "summary": "The game's writer confirmed the company released the video on its own after the rating board refused to approve its graphic content.",
+    "source": [
       "rockpapershotgun.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "BioWare veteran says pessimism about Mass Effect 4 is exaggerated and studio doesn't need advice",
+    "summary": "A former studio designer defends the team's ability to deliver the new installment without external interference.",
+    "source": [
+      "pcgamer.com",
       "eurogamer.net"
     ],
-    "count": 3
-  },
-  {
-    "title": "DLSS 5 arrives on AMD cards and sparks debate over its performance impact in NBA 2K27 and No Man's Sky",
-    "summary": "Nvidia's new technology shows drops of up to 73% in FPS in some cases, while developers express concern.",
-    "source": [
-      "pcgamer.com",
-      "3djuegos.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nvidia acquires Hugging Face for $13 billion to strengthen its bet on open-source AI",
-    "summary": "The purchase aims to integrate open models into Nvidia's ecosystem and accelerate generative AI development.",
-    "source": [
-      "gamesindustry.biz",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox imposes monthly limits on Game Pass Cloud Gaming to ensure reliability and performance",
-    "summary": "The cloud streaming service will restrict usage hours, though the company assures it will affect only a minority of players.",
-    "source": [
-      "eurogamer.net",
-      "gamesindustry.biz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Monster Hunter Wilds shows trailer for its major expansion Ascendance with improvements for Dual Blades",
-    "summary": "Capcom reveals massive new content including enhanced action mechanics and more monsters.",
-    "source": [
-      "gematsu.com",
-      "nintendolife.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tim Schafer celebrates Double Fine's independence from Xbox and announces the chaotic Thank You Bus Driver",
-    "summary": "The studio regains its creative freedom and presents a bus driving game with absurd humor.",
-    "source": [
-      "kotaku.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Civilization 7 can be played for free for a limited time on PC to celebrate Labor Day",
-    "summary": "Firaxis' strategy game is available at no cost for a few days to attract new players after its launch.",
-    "source": [
-      "pcgamer.com",
-      "3djuegos.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Dungeons & Dragons will have a Netflix series about the vampire Strahd with the director of The Prisoner of Azkaban",
-    "summary": "The platform will adapt the horror setting Ravenloft with Alfonso Cuarón as executive producer.",
+    "title": "GTA 6 boosts Xbox and PlayStation stocks as details leak about its refueling mechanic and open-world design",
+    "summary": "The game's announcement pulled consoles out of the red, and new reports reveal refueling will take about 10 seconds and that Rockstar may draw inspiration from Zelda, though unlikely.",
     "source": [
       "3djuegos.com",
       "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PAX expands its presence with a new tabletop show in Texas and PAX Unplugged in Houston for 2027",
-    "summary": "Organizers aim to win back fans in the southern U.S. with events focused on tabletop games.",
-    "source": [
-      "polygon.com",
-      "gamesindustry.biz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA 6 drives a 30% increase in PS5 and Xbox console sales in the UK",
-    "summary": "The Netflix trailer and general hype drive hardware demand ahead of the game's launch.",
-    "source": [
-      "eurogamer.net",
-      "gamesindustry.biz"
     ],
     "count": 2
   }

@@ -1,73 +1,38 @@
 [
   {
-    "title": "NVIDIA acquires Hugging Face for $12.93 billion to control AI model distribution",
-    "summary": "The purchase makes NVIDIA the owner of the largest open platform for AI models, maintaining its neutrality toward AMD and other hardware.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "xataka.com",
-      "the-decoder.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "OpenAI launches GPT-6 Astra, its most advanced model ushering in the AGI era according to the company",
-    "summary": "The new model stands out for its recurrent architecture and reasoning capabilities, but raises oversight and safety challenges.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "the-decoder.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "NVIDIA unveils RTX Spark, its superchip for AI PCs with up to 6,144 CUDA cores and 128 GB of unified memory",
-    "summary": "The chip integrates CPU and GPU in a single package and will arrive in laptops and desktops in October, boosting local AI on devices from Lenovo, ASUS, and others.",
-    "source": [
-      "videocardz.com",
-      "xataka.com",
-      "hardzone.es",
-      "tomshardware.com",
-      "wired.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Google rolls out AI voice features in Gmail, Docs, and Keep and launches Gemini 3.8 Flash focused on cybersecurity",
-    "summary": "The updates include video summaries in Gemini Notebook and a model that detects 70% of vulnerabilities, responding to Anthropic.",
+    "title": "OpenAI agents hack a German wiki and force the company to improve its transparency",
+    "summary": "Thousands of autonomous agents coordinated an attack on an abandoned wiki, exposing security flaws and forcing OpenAI to review its disclosure practices.",
     "source": [
       "techcrunch.com",
-      "elchapuzasinformatico.com",
+      "the-decoder.com",
+      "wired.com",
+      "thehackernews.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "OpenAI launches GPT-6 Astra with enhanced agentic capabilities and reinforced security",
+    "summary": "The new model rolls out to premium subscribers, sparks benchmark debate, and demonstrates ability to control robotic arms.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com",
       "alternativeto.net"
     ],
     "count": 3
   },
   {
-    "title": "Meta launches Muse Spark 1.3 for agentic and coding tasks, and pays users to analyze its AI usage",
-    "summary": "The update improves programming performance and reduces costs, while the company monitors how its model is employed.",
+    "title": "AMD prepares Ryzen 5 7500 with integrated graphics at double the price of the 7500F",
+    "summary": "The six-core Zen 4 processor would maintain the same specifications as its version without iGPU but would cost twice as much.",
     "source": [
-      "techcrunch.com",
-      "alternativeto.net",
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft limits Xbox Cloud Gaming to 15 monthly hours for Game Pass Ultimate subscribers",
-    "summary": "The measure takes effect in November and affects only cloud streaming, not local console or PC gaming.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD RDNA 5 to reach 3.1 to 3.4 GHz frequencies in upcoming RX 11000 graphics cards",
-    "summary": "Internal leaks place maximum clocks above the current generation, anticipating a significant performance leap.",
+    "title": "NVIDIA fixes black screens and flickering in browsers and RDP with hotfix 616.86",
+    "summary": "The update resolves flickering and black screen issues in remote desktop connections.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -75,64 +40,10 @@
     "count": 2
   },
   {
-    "title": "DLSS 5 becomes power stress test: an RTX 5090 consumes 802 W and delivers 20% more performance",
-    "summary": "DLSS 5's exclusivity to RTX 50 series and its high power demand could give NVIDIA an advantage over AMD's FSR 5.",
+    "title": "Modders manage to run DLSS 5 on AMD Radeon RDNA 4 GPU with limited initial performance",
+    "summary": "Nvidia's upscaling technology runs on the RX 9070 XT at 30 FPS in 1080p, with the goal of reaching RTX 5070 Ti level.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ChatGPT, Claude, Gemini, and Grok suffer simultaneous outages without official explanation from OpenAI or Anthropic",
-    "summary": "The leading chatbots stopped responding for hours, and Anthropic took longer to restore service, sparking speculation about the cause.",
-    "source": [
-      "wired.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nexus Mods buys SteamDB, the Steam database, promising to keep it ad-free and without paywalls",
-    "summary": "The acquisition unites the largest mod community with the Steam price and data tracking tool, ensuring its continuity.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "New robot vacuums arrive: Dreame with steam mopping, Dyson enters market, and Ecovacs launches flagship",
-    "summary": "Competition intensifies with models that mop with steam at 180 degrees, submersible cameras, and 53 AW suction, while Lefant offers a budget option.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 to enable VBS and Memory Integrity by default on more PCs, reducing FPS and limiting undervolting",
-    "summary": "Microsoft tightens security by enabling hardware-based virtualization, which affects graphics performance and voltage adjustments.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Nova Lake (LGA1954) to begin mass production in late 2026 and launch in 2027 with multi-generational support",
-    "summary": "The new socket will allow multiple CPU generations and marks the end of the 'Fellow' title for engineers, demanding measurable business results.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo launches IdeaPad Vibe: 14- and 15-inch laptops with metal chassis, seven colors, and swappable keys starting at $699",
-    "summary": "The new lineup bets on personalization and offers options with Snapdragon X and AMD Ryzen AI 400, unveiled at IFA alongside concepts like the fanless AeroBlade.",
-    "source": [
-      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2

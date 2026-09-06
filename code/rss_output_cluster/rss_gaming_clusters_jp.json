@@ -1,148 +1,47 @@
 [
   {
-    "title": "任天堂、9月に2回連続のDirectを発表、うち1回はゼルダの伝説40周年記念に特化",
-    "summary": "同社は9月8日と9日のプレゼンテーションを確認し、リンクの伝説的なシリーズに焦点を当てた特別イベントを実施する。",
+    "title": "専門メディアが週末のプレイ記録を定期推薦コーナーで共有",
+    "summary": "Nintendo Life、Eurogamer、Rock Paper Shotgunが、今週編集者たちがプレイしているゲームについての恒例コラムを公開した。",
     "source": [
       "nintendolife.com",
       "eurogamer.net",
-      "3djuegos.com",
-      "gematsu.com",
-      "gamespot.com",
-      "kotaku.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "『The Blood of Dawnwalker』：MODでタイマー削除、パッチで技術的エラーを修正",
-    "summary": "プレイヤーがRPGを改造して時間制限を撤廃する中、Rebel Wolvesが安定性向上のためのアップデートをリリース。",
-    "source": [
-      "kotaku.com",
-      "pcgamer.com",
-      "3djuegos.com",
-      "eurogamer.net",
       "rockpapershotgun.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "マイアミ・デイド警察、GTA 6との協力を拒否し「犯罪を美化している」と非難",
-    "summary": "シェリフと地元当局は、都市の一部をバイスシティ化することに反対し、日常業務に矛盾すると主張。",
-    "source": [
-      "pcgamer.com",
-      "kotaku.com",
-      "3djuegos.com",
-      "rockpapershotgun.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ホワイトハウス、人種差別的内容を含むテトリスのクローンを公開；テトリス社とメディアが権利侵害を非難",
-    "summary": "公式サイトがヘイトメッセージを含む改変アーケードゲームを公開し、法的対応と批判を招く。",
-    "source": [
-      "pcgamer.com",
-      "polygon.com",
-      "kotaku.com"
     ],
     "count": 3
   },
   {
-    "title": "Gamescom、イベントでのハードウェア盗難でインディー開発者を責めたことを謝罪",
-    "summary": "主催者は不適切な対応を認め、広範な批判を受けてセキュリティ強化を約束。",
-    "source": [
-      "3djuegos.com",
-      "pcgamer.com",
-      "kotaku.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "『Exodus』、Mass Effectの精神的継承作としてゼロ重力戦闘で高評価を獲得",
-    "summary": "ジャーナリストらはBioWareシリーズとの類似性を指摘しつつ、ロマンスと宇宙探索のメカニクスを称賛。",
+    "title": "『Old School RuneScape』元開発者、仮想ゴールド40万ドル窃盗で有罪判決",
+    "summary": "Jagexの元従業員が、8年間にわたる捜査の末、ゲーム内アイテムと通貨を盗み出し違法に販売したとして有罪判決を受けた。",
     "source": [
       "kotaku.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、『Left 4 Dead 2』シネマティックトレーラーを意図的にリークしESRBの検閲を回避",
+    "summary": "ゲームのライターが、レーティング機関がグラフィックなコンテンツを承認しなかったため、同社が自ら動画を公開したことを明かした。",
+    "source": [
       "rockpapershotgun.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "BioWareベテラン、『Mass Effect 4』への悲観論は過剰でスタジオに助言は不要と主張",
+    "summary": "元スタジオデザイナーが、外部の干渉なしにチームが新作を完成させる能力があることを擁護した。",
+    "source": [
+      "pcgamer.com",
       "eurogamer.net"
     ],
-    "count": 3
-  },
-  {
-    "title": "DLSS 5がAMDカードに対応、NBA 2K27とNo Man's Skyでのパフォーマンス影響で議論に",
-    "summary": "Nvidiaの新技術が一部ケースで最大73%のFPS低下を示し、開発者らが懸念を表明。",
-    "source": [
-      "pcgamer.com",
-      "3djuegos.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nvidia、Hugging Faceを130億ドルで買収しオープンソースAI戦略を強化",
-    "summary": "買収はオープンモデルをNvidiaエコシステムに統合し、生成AI開発を加速させる狙い。",
-    "source": [
-      "gamesindustry.biz",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox、Game Passクラウドゲーミングに月間利用制限を導入し信頼性と性能を確保",
-    "summary": "クラウドストリーミングサービスが利用時間を制限するが、同社は少数のプレイヤーのみ影響を受けると説明。",
-    "source": [
-      "eurogamer.net",
-      "gamesindustry.biz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『モンスターハンターワイルズ』、大型拡張『Ascendance』のトレーラー公開、双剣の強化など",
-    "summary": "カプコンがアクションメカニクスの強化と新モンスターを含む大量の新コンテンツを公開。",
-    "source": [
-      "gematsu.com",
-      "nintendolife.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tim Schafer、Double FineのXboxからの独立を祝い、カオスな『Thank You Bus Driver』を発表",
-    "summary": "スタジオが創作の自由を取り戻し、不条理なユーモア溢れるバス運転ゲームを披露。",
-    "source": [
-      "kotaku.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Civilization 7』がPCで期間限定無料プレイ可能に、レイバーデー記念で",
-    "summary": "Firaxisの戦略ゲームが数日間無料で提供され、発売後の新規プレイヤー獲得を狙う。",
-    "source": [
-      "pcgamer.com",
-      "3djuegos.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『ダンジョンズ&ドラゴンズ』、吸血鬼ストラッドを描くNetflixシリーズ制作、『アズカバンの囚人』監督が参加",
-    "summary": "プラットフォームがホラー設定『レイヴンロフト』を映像化、アルフォンソ・キュアロンがエグゼクティブプロデューサーに。",
+    "title": "『GTA 6』発表でXboxとPlayStation株が上昇、給油メカニクスとオープンワールド設計の詳細がリーク",
+    "summary": "ゲームの発表でコンソール株が赤字から脱却、新たな報告で給油に約10秒かかること、Rockstarが『ゼルダ』から着想を得る可能性があるものの、その可能性は低いと判明した。",
     "source": [
       "3djuegos.com",
       "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PAX、テキサスで新たなテーブルゲームショーと2027年ヒューストンでのPAX Unpluggedで展開拡大",
-    "summary": "主催者はテーブルゲーム中心のイベントで米国南部のファンを取り込みを図る。",
-    "source": [
-      "polygon.com",
-      "gamesindustry.biz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA 6効果で英国のPS5とXboxコンソール売上が30%増",
-    "summary": "Netflixの予告編と全般的な期待感がゲーム発売前のハードウェア需要を急増させる。",
-    "source": [
-      "eurogamer.net",
-      "gamesindustry.biz"
     ],
     "count": 2
   }
