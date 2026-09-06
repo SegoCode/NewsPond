@@ -1,49 +1,10 @@
 [
   {
-    "title": "Anthropic prepara su salida a bolsa para octubre con una valoración de 2 billones de dólares",
-    "summary": "La startup de inteligencia artificial avanza en su proceso de IPO con la selección de Morgan Stanley y Goldman Sachs como coordinadores principales.",
+    "title": "EE. UU. ataca tres petroleros iraníes en represalia por agresiones a sus buques de guerra",
+    "summary": "El Comando Central estadounidense confirmó el ataque contra tanqueros de crudo vinculados a la Guardia Revolucionaria iraní como respuesta a ataques previos contra buques de la marina.",
     "source": [
       "nikkei.com",
-      "investing.com",
       "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El fondo soberano de Noruega reducirá drásticamente su cartera de bonos del Tesoro de EE. UU.",
-    "summary": "El gestor del fondo de 2 billones de dólares propone recortar sus posiciones en deuda estadounidense tras revisar sus criterios de inversión.",
-    "source": [
-      "nikkei.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El informe de empleo de EE. UU. aviva el temor a subidas de tipos y castiga a los mercados",
-    "summary": "Los datos de agosto refuerzan las apuestas a una subida de tipos en septiembre, hundiendo a Wall Street y elevando el dólar y los rendimientos.",
-    "source": [
-      "nikkei.com",
-      "handelsblatt.com",
-      "finance.yahoo.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Tesla lanza el Cybercab robotaxi mientras elimina la producción en serie de este año",
-    "summary": "Elon Musk presenta el vehículo autónomo sin pedales ni volante, aunque su producción en volumen se pospone para 2027.",
-    "source": [
-      "nasdaq.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Volkswagen celebra en bolsa su plan de reestructuración y los analistas aplauden su realismo",
-    "summary": "El fabricante alemán acuerda recortes de costes y plantilla sin cierres de fábricas, impulsando sus acciones en Fráncfort y Madrid.",
-    "source": [
-      "handelsblatt.com",
-      "expansion.com"
     ],
     "count": 2
   }
