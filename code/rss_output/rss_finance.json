@@ -1,15 +1,29 @@
 {
-  "fetchedAt": "2026-09-05T03:02:23.825Z",
-  "totalItems": 232,
+  "fetchedAt": "2026-09-06T03:01:31.513Z",
+  "totalItems": 231,
   "totalErrors": 2,
   "items": [
     {
-      "id": "https://www.nasdaq.com/articles/spot-memory-prices-are-running-4-times-contract-prices-not-what-cycle-peak-looks?time=1788573481",
-      "title": "Spot Memory Prices Are Running 4 Times Contract Prices. That Is Not What a Cycle Peak Looks Like.",
-      "description": "Key PointsA 36-gigabyte HBM3E chip reportedly fetches about $2,100 on the spot\nmarket, four to five times its long-term contract price.",
-      "content": "Key PointsA 36-gigabyte HBM3E chip reportedly fetches about $2,100 on the spot\nmarket, four to five times its long-term contract price.",
-      "url": "https://nasdaq.com/articles/spot-memory-prices-are-running-4-times-contract-prices-not-what-cycle-peak-looks",
-      "publishedAt": "2026-09-05T01:58:01.000Z",
+      "id": "https://www.nikkei.com/article/DGXZQOUD0609N0W6A900C2000000/",
+      "title": "台風や前線影響、荒天続く　7日にかけ土砂災害や増水に厳重な警戒を",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD0609N0W6A900C2000000",
+      "publishedAt": "2026-09-06T01:08:31.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/greg-abel-says-berkshire-will-serve-hyperscalers-only-if-its-other-customers-dont-pay-it?time=1788656821",
+      "title": "Greg Abel Says Berkshire Will Serve the Hyperscalers Only If Its Other Customers Don't Pay for It",
+      "description": "Key PointsGreg Abel said this week that serving hyperscalers can't raise other\ncustomers' rates and must deliver them a net benefit.",
+      "content": "Key PointsGreg Abel said this week that serving hyperscalers can't raise other\ncustomers' rates and must deliver them a net benefit.",
+      "url": "https://nasdaq.com/articles/greg-abel-says-berkshire-will-serve-hyperscalers-only-if-its-other-customers-dont-pay-it",
+      "publishedAt": "2026-09-06T01:07:01.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -20,12 +34,68 @@
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/applied-digital-vs-iren-evaluating-better-artificial-intelligence-stock-buy-2026?time=1788571786",
-      "title": "Applied Digital vs. IREN: Evaluating the Better Artificial Intelligence Stock to Buy for 2026",
-      "description": "Key PointsApplied Digital delivers infrastructure specifically designed for the\nmassive processing needs of artificial intelligence.",
-      "content": "Key PointsApplied Digital delivers infrastructure specifically designed for the\nmassive processing needs of artificial intelligence.",
-      "url": "https://nasdaq.com/articles/applied-digital-vs-iren-evaluating-better-artificial-intelligence-stock-buy-2026",
-      "publishedAt": "2026-09-05T01:29:46.000Z",
+      "id": "https://www.nikkei.com/article/DGXZQOGM0607R0W6A900C2000000/",
+      "title": "インドネシアで大規模噴火　火山灰拡散でジャカルタ空港が一時閉鎖",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGM0607R0W6A900C2000000",
+      "publishedAt": "2026-09-06T01:06:53.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD0603E0W6A900C2000000/",
+      "title": "岐阜・本巣のケーキ店で火災、2人死亡　放火か「ガソリンまかれた」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD0603E0W6A900C2000000",
+      "publishedAt": "2026-09-06T01:02:14.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCD016E80R00C26A9000000/",
+      "title": "ドラマ「VIVANT」が描く外交官スパイ　現実にも広がる情報戦",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCD016E80R00C26A9000000",
+      "publishedAt": "2026-09-06T01:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGR060130W6A900C2000000/",
+      "title": "米特使がキーウ初訪問へ　プーチン氏と会談後、「戦争終結案」携え",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR060130W6A900C2000000",
+      "publishedAt": "2026-09-06T00:54:53.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/resideo-svp-mehta-buys-10928-shares-226000-direct-purchase?time=1788655801",
+      "title": "Resideo SVP Mehta Buys 10,928 Shares in $226,000 Direct Purchase",
+      "description": "Key PointsThe purchase was valued at approximately $226,000.",
+      "content": "Key PointsThe purchase was valued at approximately $226,000.",
+      "url": "https://nasdaq.com/articles/resideo-svp-mehta-buys-10928-shares-226000-direct-purchase",
+      "publishedAt": "2026-09-06T00:50:01.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -36,28 +106,12 @@
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/where-will-solana-be-5-years-0?time=1788571020",
-      "title": "Where Will Solana Be in 5 Years?",
-      "description": "Key PointsSolana will likely benefit tremendously from the ongoing push toward\nasset tokenization.",
-      "content": "Key PointsSolana will likely benefit tremendously from the ongoing push toward\nasset tokenization.",
-      "url": "https://nasdaq.com/articles/where-will-solana-be-5-years-0",
-      "publishedAt": "2026-09-05T01:17:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD04BO10U6A900C2000000/",
-      "title": "静岡の通園バス園児置き去り死、父親が会見「助けられず今も後悔」",
+      "id": "https://www.nikkei.com/article/DGXZQOKC0609F0W6A900C2000000/",
+      "title": "F1イタリアGP予選、角田裕毅15位　PPはアルピーヌのガスリー",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD04BO10U6A900C2000000",
-      "publishedAt": "2026-09-05T01:08:55.000Z",
+      "url": "https://nikkei.com/article/DGXZQOKC0609F0W6A900C2000000",
+      "publishedAt": "2026-09-06T00:44:39.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -66,110 +120,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUD027EI0S6A900C2000000/",
-      "title": "よろい竜化石は新属新種　北海道で30年前に発見",
+      "id": "https://www.investing.com/news/stock-market-news/why-some-investors-say-volkswagen-is-simply-not-fixable-4890247",
+      "title": "Why some investors say Volkswagen is simply \"not fixable\"",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD027EI0S6A900C2000000",
-      "publishedAt": "2026-09-05T01:08:06.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD04BOC0U6A900C2000000/",
-      "title": "東京・世田谷の交際相手殺害、韓国籍男に拘禁刑20年　東京地裁判決",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD04BOC0U6A900C2000000",
-      "publishedAt": "2026-09-05T01:07:29.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD050120V00C26A9000000/",
-      "title": "鹿児島・屋久島にレベル5土砂災害特別警報　台風と前線で大気不安定に",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD050120V00C26A9000000",
-      "publishedAt": "2026-09-05T01:02:36.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD28AU00Y6A820C2000000/",
-      "title": "集めたシャーペン1000本展示　京都の大学生「博物館」開く",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD28AU00Y6A820C2000000",
-      "publishedAt": "2026-09-05T01:00:47.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGN050CI0V00C26A9000000/",
-      "title": "アンソロピックのIPO、10月後半以降か　ロイター報道",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGN050CI0V00C26A9000000",
-      "publishedAt": "2026-09-05T00:55:36.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOKC050DQ0V00C26A9000000/",
-      "title": "全米テニス、穂積絵莉組・加藤未唯組が2回戦へ　女子ダブルス",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC050DQ0V00C26A9000000",
-      "publishedAt": "2026-09-05T00:46:12.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOKC050EA0V00C26A9000000/",
-      "title": "パリSG、ルイスエンリケ監督と契約延長　2030年まで",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC050EA0V00C26A9000000",
-      "publishedAt": "2026-09-05T00:45:43.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/ai-hiring-boom-could-turn-into-a-surprise-tailwind-for-software-bernstein-4890132",
-      "title": "AI hiring boom could turn into a surprise tailwind for software: Bernstein",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/ai-hiring-boom-could-turn-into-a-surprise-tailwind-for-software-bernstein-4890132",
-      "publishedAt": "2026-09-05T00:37:34.000Z",
+      "url": "https://investing.com/news/stock-market-news/why-some-investors-say-volkswagen-is-simply-not-fixable-4890247",
+      "publishedAt": "2026-09-06T00:39:48.000Z",
       "author": "Investing.com",
       "categories": [],
       "source": {
@@ -178,12 +134,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOCB050F70V00C26A9000000/",
-      "title": "国連総会「メルカトル図法やめて」　アフリカ面積の正確な表示促す",
+      "id": "https://www.nikkei.com/article/DGXZQOKC0608M0W6A900C2000000/",
+      "title": "村上宗隆、30号2ラン　メジャー1年目は日本選手初",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCB050F70V00C26A9000000",
-      "publishedAt": "2026-09-05T00:31:20.000Z",
+      "url": "https://nikkei.com/article/DGXZQOKC0608M0W6A900C2000000",
+      "publishedAt": "2026-09-06T00:36:58.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -192,12 +148,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOKC050D40V00C26A9000000/",
-      "title": "熊谷紗希、ウェストハムへ移籍　サッカー女子日本代表",
+      "id": "https://www.nikkei.com/article/DGXZQOKC060860W6A900C2000000/",
+      "title": "クライミング、鈴木音生V　ワールドシリーズ・リード",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC050D40V00C26A9000000",
-      "publishedAt": "2026-09-05T00:18:48.000Z",
+      "url": "https://nikkei.com/article/DGXZQOKC060860W6A900C2000000",
+      "publishedAt": "2026-09-06T00:20:20.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -206,40 +162,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUA291N70Z20C26A8000000/",
-      "title": "「なんでもNISA政治」の落とし穴　個人口座3000万が招いた地殻変動",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA291N70Z20C26A8000000",
-      "publishedAt": "2026-09-05T00:08:35.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOKC050A80V00C26A9000000/",
-      "title": "村竹ラシッドは110障害7位　陸上ダイヤモンドリーグ・ファイナル",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC050A80V00C26A9000000",
-      "publishedAt": "2026-09-04T23:46:42.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/prediction-ionq-puts-multiyear-revenue-number-board-tuesday?time=1788565561",
-      "title": "Prediction: IonQ Puts a Multiyear Revenue Number on the Board Tuesday",
-      "description": "Key PointsIonQ has raised its 2026 revenue guidance twice this year, most\nrecently to a range of $280 million to $290 million.",
-      "content": "Key PointsIonQ has raised its 2026 revenue guidance twice this year, most\nrecently to a range of $280 million to $290 million.",
-      "url": "https://nasdaq.com/articles/prediction-ionq-puts-multiyear-revenue-number-board-tuesday",
-      "publishedAt": "2026-09-04T23:46:01.000Z",
+      "id": "https://www.nasdaq.com/articles/viking-therapeutics-trades-well-below-its-wall-street-targets-heres-skeptics-case?time=1788654000",
+      "title": "Viking Therapeutics Trades Well Below Its Wall Street Targets. Here's the Skeptics' Case.",
+      "description": "Key PointsViking Therapeutics has significant upside potential based on Wall\nStreet targets.",
+      "content": "Key PointsViking Therapeutics has significant upside potential based on Wall\nStreet targets.",
+      "url": "https://nasdaq.com/articles/viking-therapeutics-trades-well-below-its-wall-street-targets-heres-skeptics-case",
+      "publishedAt": "2026-09-06T00:20:00.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -250,12 +178,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOKC050AK0V00C26A9000000/",
-      "title": "ドジャース、2月19日初戦　2027年のオープン戦",
+      "id": "https://www.nikkei.com/article/DGXZQOJC209Y40Q6A820C2000000/",
+      "title": "福岡の市場食堂　活魚こだわる海鮮丼、もちもち弾力生む鮮度管理",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC050AK0V00C26A9000000",
-      "publishedAt": "2026-09-04T23:44:35.000Z",
+      "url": "https://nikkei.com/article/DGXZQOJC209Y40Q6A820C2000000",
+      "publishedAt": "2026-09-06T00:00:00.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -264,40 +192,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOCB050BF0V00C26A9000000/",
-      "title": "ロシア、独立系紙ノーバヤ・ガゼータを「スパイ」に指定",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCB050BF0V00C26A9000000",
-      "publishedAt": "2026-09-04T23:42:13.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCB050B90V00C26A9000000/",
-      "title": "トランプ氏、習近平氏を国賓待遇へ　イラン情勢巡り中国を問題視せず",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCB050B90V00C26A9000000",
-      "publishedAt": "2026-09-04T23:37:26.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/why-quanex-stock-skyrocketed-22-friday?time=1788564870",
-      "title": "Why Quanex Stock Skyrocketed by 22% on Friday",
-      "description": "Key PointsWhile top-line growth was nothing to write home about, adjusted net\nincome rose impressively.",
-      "content": "Key PointsWhile top-line growth was nothing to write home about, adjusted net\nincome rose impressively.",
-      "url": "https://nasdaq.com/articles/why-quanex-stock-skyrocketed-22-friday",
-      "publishedAt": "2026-09-04T23:34:30.000Z",
+      "id": "https://www.nasdaq.com/articles/bill-gates-says-he-still-wont-invest-crypto-calls-it-pure-mania-driven-asset-heres-why-hes?time=1788652200",
+      "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a &quot;Pure Mania-Driven Asset.&quot; Here's Why He's Right.",
+      "description": "Key PointsBitcoin’s massive gains don’t eliminate its fundamental investment\nrisks.",
+      "content": "Key PointsBitcoin’s massive gains don’t eliminate its fundamental investment\nrisks.",
+      "url": "https://nasdaq.com/articles/bill-gates-says-he-still-wont-invest-crypto-calls-it-pure-mania-driven-asset-heres-why-hes",
+      "publishedAt": "2026-09-05T23:50:00.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -308,12 +208,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQODH0460Z0U6A900C2000000/",
-      "title": "5日の有力馬　京成杯オータムハンデなど競馬予想",
+      "id": "https://www.nikkei.com/article/DGXZQOKC0605A0W6A900C2000000/",
+      "title": "バスケ女子日本、ドイツに敗れ1勝1敗　ワールドカップ",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQODH0460Z0U6A900C2000000",
-      "publishedAt": "2026-09-04T23:30:00.000Z",
+      "url": "https://nikkei.com/article/DGXZQOKC0605A0W6A900C2000000",
+      "publishedAt": "2026-09-05T23:42:30.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -322,12 +222,54 @@
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/nike-ceo-sells-over-9000-company-shares-amid-declining-stock-price?time=1788564541",
-      "title": "Nike CEO Sells Over 9,000 Company Shares Amid a Declining Stock Price",
-      "description": "Key PointsThe transaction involved 9,462 shares valued at ~$369,600 as of the\nSeptember 1, 2026 transaction date.",
-      "content": "Key PointsThe transaction involved 9,462 shares valued at ~$369,600 as of the\nSeptember 1, 2026 transaction date.",
-      "url": "https://nasdaq.com/articles/nike-ceo-sells-over-9000-company-shares-amid-declining-stock-price",
-      "publishedAt": "2026-09-04T23:29:01.000Z",
+      "id": "https://www.nikkei.com/article/DGXZQOKC0605Y0W6A900C2000000/",
+      "title": "鎌田大地アシスト　海外サッカー、GK鈴木彩艶はフル出場で無失点",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC0605Y0W6A900C2000000",
+      "publishedAt": "2026-09-05T23:42:10.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC0605W0W6A900C2000000/",
+      "title": "田中碧、先制点アシスト　イングランド・プレミアリーグ",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC0605W0W6A900C2000000",
+      "publishedAt": "2026-09-05T23:41:41.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC0605T0W6A900C2000000/",
+      "title": "田中聡、ドイツリーグ戦デビュー　シャルケは引き分け",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC0605T0W6A900C2000000",
+      "publishedAt": "2026-09-05T23:41:11.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/cerebras-has-254-billion-backlog-and-one-openai-agreement-behind-much-it?time=1788651241",
+      "title": "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+      "description": "Key PointsCerebras grew its second-quarter adjusted revenue 103% year over year\nto $209.9 million.",
+      "content": "Key PointsCerebras grew its second-quarter adjusted revenue 103% year over year\nto $209.9 million.",
+      "url": "https://nasdaq.com/articles/cerebras-has-254-billion-backlog-and-one-openai-agreement-behind-much-it",
+      "publishedAt": "2026-09-05T23:34:01.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -338,12 +280,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOGR04B7X0U6A900C2000000/",
-      "title": "ロシア、ウクライナ保安局庁舎を攻撃　無人機直撃とゼレンスキー氏",
+      "id": "https://www.nikkei.com/article/DGXZQOKC0605J0W6A900C2000000/",
+      "title": "女子やり投げ、北口榛花2位　陸上DLファイナル",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGR04B7X0U6A900C2000000",
-      "publishedAt": "2026-09-04T23:22:58.000Z",
+      "url": "https://nikkei.com/article/DGXZQOKC0605J0W6A900C2000000",
+      "publishedAt": "2026-09-05T23:33:56.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -352,12 +294,26 @@
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/why-asml-holding-stock-bumped-4-higher-today?time=1788562282",
-      "title": "Why ASML Holding Stock Bumped 4% Higher Today",
-      "description": "Key PointsASML specializes in the lithography systems that \"print\" circuits onto\nchips.",
-      "content": "Key PointsASML specializes in the lithography systems that \"print\" circuits onto\nchips.",
-      "url": "https://nasdaq.com/articles/why-asml-holding-stock-bumped-4-higher-today",
-      "publishedAt": "2026-09-04T22:51:22.000Z",
+      "id": "https://www.nikkei.com/article/DGXZQODH050HM0V00C26A9000000/",
+      "title": "6日の有力馬　セントウルステークスなど競馬予想",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODH050HM0V00C26A9000000",
+      "publishedAt": "2026-09-05T23:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/ionq-vs-rigetti-computing-which-pure-play-quantum-pioneer-has-stronger-technology?time=1788650400",
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "description": "Key PointsIonQ's process is more accurate but slower.",
+      "content": "Key PointsIonQ's process is more accurate but slower.",
+      "url": "https://nasdaq.com/articles/ionq-vs-rigetti-computing-which-pure-play-quantum-pioneer-has-stronger-technology",
+      "publishedAt": "2026-09-05T23:20:00.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -368,68 +324,12 @@
       }
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/starbucks-antiunionization-case-brought-by-nlrb-narrowed-by-usappeals-court-4889935",
-      "title": "Starbucks anti-unionization case brought by NLRB narrowed by US appeals court",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/starbucks-antiunionization-case-brought-by-nlrb-narrowed-by-usappeals-court-4889935",
-      "publishedAt": "2026-09-04T22:49:19.000Z",
-      "author": "Reuters",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGN04BQQ0U6A900C2000000/",
-      "title": "習近平氏の訪米に企業代表団が同行　9月下旬のワシントン訪問",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGN04BQQ0U6A900C2000000",
-      "publishedAt": "2026-09-04T22:49:17.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCD0494F0U6A900C2000000/",
-      "title": "ノルウェー政府系基金、米国債保有12兆円減少へ　投資基準を見直し",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCD0494F0U6A900C2000000",
-      "publishedAt": "2026-09-04T22:47:45.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-launch-shifts-toward-midoctober-sources-say-4890091",
-      "title": "Exclusive-Anthropic IPO launch shifts toward mid-October, sources say",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/exclusiveanthropic-ipo-launch-shifts-toward-midoctober-sources-say-4890091",
-      "publishedAt": "2026-09-04T22:42:59.000Z",
-      "author": "Reuters",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/tesla-launched-cybercab-thursday-6-weeks-after-removing-volume-production-it-years-plan?time=1788561661",
-      "title": "Tesla Launched the Cybercab Thursday, 6 Weeks After Removing Volume Production of It From This Year's Plan",
-      "description": "Key PointsTesla launched the Cybercab at an invite-only event in Austin on\nThursday, and riders there can now hail the two-seat robotaxi through the\nRobotaxi app.",
-      "content": "Key PointsTesla launched the Cybercab at an invite-only event in Austin on\nThursday, and riders there can now hail the two-seat robotaxi through the\nRobotaxi app.",
-      "url": "https://nasdaq.com/articles/tesla-launched-cybercab-thursday-6-weeks-after-removing-volume-production-it-years-plan",
-      "publishedAt": "2026-09-04T22:41:01.000Z",
+      "id": "https://www.nasdaq.com/articles/cvb-financial-director-mike-maddox-buys-10000-shares?time=1788650101",
+      "title": "CVB Financial Director Mike Maddox Buys 10,000 Shares",
+      "description": "Key PointsThe purchase on Aug. 31 was valued at approximately $220,300.",
+      "content": "Key PointsThe purchase on Aug. 31 was valued at approximately $220,300.",
+      "url": "https://nasdaq.com/articles/cvb-financial-director-mike-maddox-buys-10000-shares",
+      "publishedAt": "2026-09-05T23:15:01.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -440,26 +340,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOCB050770V00C26A9000000/",
-      "title": "ルビオ米国務長官、南米3カ国訪問へ　右派政権と連携強化",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCB050770V00C26A9000000",
-      "publishedAt": "2026-09-04T22:34:34.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/nuclear-ipo-boom-back-how-westinghouse-and-its-rivals-stack-long-term-investors?time=1788561241",
-      "title": "The Nuclear IPO Boom Is Back: How Westinghouse and Its Rivals Stack Up for Long-Term Investors",
-      "description": "Key PointsA new wave of nuclear IPOs ranges from solid operators like\nWestinghouse to highly speculative start-ups.",
-      "content": "Key PointsA new wave of nuclear IPOs ranges from solid operators like\nWestinghouse to highly speculative start-ups.",
-      "url": "https://nasdaq.com/articles/nuclear-ipo-boom-back-how-westinghouse-and-its-rivals-stack-long-term-investors",
-      "publishedAt": "2026-09-04T22:34:01.000Z",
+      "id": "https://www.nasdaq.com/articles/evtol-stock-could-set-early-investors-life?time=1788648540",
+      "title": "This eVTOL Stock Could Set Early Investors Up for Life",
+      "description": "Key PointsArcher Aviation acquired three businesses from Boeing, one of which is\ndeveloping autonomous eVTOLs.",
+      "content": "Key PointsArcher Aviation acquired three businesses from Boeing, one of which is\ndeveloping autonomous eVTOLs.",
+      "url": "https://nasdaq.com/articles/evtol-stock-could-set-early-investors-life",
+      "publishedAt": "2026-09-05T22:49:00.000Z",
       "author": "The Motley Fool",
       "categories": [
         "Markets"
@@ -470,17 +356,595 @@
       }
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/boring-company-valuation-hits-20-billion-in-latest-funding-round--wsj-4889679",
-      "title": "Boring Company valuation hits $20 billion in latest funding round - WSJ",
+      "id": "https://www.nasdaq.com/articles/why-intel-stock-climbed-week?time=1788648017",
+      "title": "Why Intel Stock Climbed This Week",
+      "description": "Key PointsAI tasks are shifting to CPU-powered workloads.",
+      "content": "Key PointsAI tasks are shifting to CPU-powered workloads.",
+      "url": "https://nasdaq.com/articles/why-intel-stock-climbed-week",
+      "publishedAt": "2026-09-05T22:40:17.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/donald-trumps-tariff-policy-has-repeatedly-triggered-multi-trillion-dollar-stock-swings?time=1788646800",
+      "title": "Donald Trump's Tariff Policy Has Repeatedly Triggered Multi-Trillion-Dollar Stock Swings Since Early 2025. Here's Why Markets Still Struggle to Price In His Next Move.",
+      "description": "Key PointsPresident Trump's imposition of new tariffs has sent the market into a\ntailspin on numerous occasions.",
+      "content": "Key PointsPresident Trump's imposition of new tariffs has sent the market into a\ntailspin on numerous occasions.",
+      "url": "https://nasdaq.com/articles/donald-trumps-tariff-policy-has-repeatedly-triggered-multi-trillion-dollar-stock-swings",
+      "publishedAt": "2026-09-05T22:20:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/prediction-heres-what-10000-investment-rocket-lab-will-be-worth-5-years?time=1788646800",
+      "title": "Prediction: Here's What a $10,000 Investment in Rocket Lab Will Be Worth in 5 Years",
+      "description": "Key PointsRocket Lab stock gained 560% over the last five years.",
+      "content": "Key PointsRocket Lab stock gained 560% over the last five years.",
+      "url": "https://nasdaq.com/articles/prediction-heres-what-10000-investment-rocket-lab-will-be-worth-5-years",
+      "publishedAt": "2026-09-05T22:20:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/unusual-machines-cfo-brian-hoff-sells-11413-shares?time=1788646502",
+      "title": "Unusual Machines CFO Brian Hoff Sells 11,413 Shares",
+      "description": "Key PointsThe sale was valued at nearly $300,000.",
+      "content": "Key PointsThe sale was valued at nearly $300,000.",
+      "url": "https://nasdaq.com/articles/unusual-machines-cfo-brian-hoff-sells-11413-shares",
+      "publishedAt": "2026-09-05T22:15:02.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/amd-committed-5-billion-anthropic-and-anthropics-ipo-prospectus-reportedly-days-away?time=1788645781",
+      "title": "AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly Days Away",
+      "description": "Key PointsAMD committed in late July to invest up to $5 billion in Anthropic,\nalongside an agreement to deploy up to 2 gigawatts of its Instinct MI450 series\nGPUs.",
+      "content": "Key PointsAMD committed in late July to invest up to $5 billion in Anthropic,\nalongside an agreement to deploy up to 2 gigawatts of its Instinct MI450 series\nGPUs.",
+      "url": "https://nasdaq.com/articles/amd-committed-5-billion-anthropic-and-anthropics-ipo-prospectus-reportedly-days-away",
+      "publishedAt": "2026-09-05T22:03:01.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/quantumscape-stock-worth-closer-look-right-now?time=1788645000",
+      "title": "QuantumScape Stock Is Worth a Closer Look Right Now",
+      "description": "Key PointsQuantumScape's stock is near a 52-week low.",
+      "content": "Key PointsQuantumScape's stock is near a 52-week low.",
+      "url": "https://nasdaq.com/articles/quantumscape-stock-worth-closer-look-right-now",
+      "publishedAt": "2026-09-05T21:50:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN052SB0V00C26A9000000/",
+      "title": "米中央軍、イランの原油タンカーを攻撃　「革命防衛隊への反撃措置」",
       "description": "",
       "content": "",
-      "url": "https://investing.com/news/stock-market-news/boring-company-valuation-hits-20-billion-in-latest-funding-round--wsj-4889679",
-      "publishedAt": "2026-09-04T22:30:13.000Z",
+      "url": "https://nikkei.com/article/DGXZQOGN052SB0V00C26A9000000",
+      "publishedAt": "2026-09-05T21:47:36.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCB060170W6A900C2000000/",
+      "title": "ネパール土石流遺体の引き渡し1割未満　確認難航、死者1375人に",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCB060170W6A900C2000000",
+      "publishedAt": "2026-09-05T21:41:44.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "ecab45a4-6786-4151-a998-f64279457435",
+      "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
+      "description": "The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding\ninvestigation’",
+      "content": "The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding\ninvestigation’",
+      "url": "https://ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-05T21:35:17.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/coca-cola-stock-88-heres-why-investors-should-pause?time=1788643577",
+      "title": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
+      "description": "Key PointsPepsiCo now offers a higher dividend yield at a lower valuation.",
+      "content": "Key PointsPepsiCo now offers a higher dividend yield at a lower valuation.",
+      "url": "https://nasdaq.com/articles/coca-cola-stock-88-heres-why-investors-should-pause",
+      "publishedAt": "2026-09-05T21:26:17.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
+      "publishedAt": "2026-09-05T21:20:04.000Z",
       "author": "Investing.com",
       "categories": [],
       "source": {
         "name": "investing.com",
         "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated-4890238",
+      "title": "Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated-4890238",
+      "publishedAt": "2026-09-05T21:06:23.000Z",
+      "author": "Investing.com",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGR04BCH0U6A900C2000000/",
+      "title": "プーチン氏、米特使とウクライナ巡り会談　「戦争終結提案」を協議",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR04BCH0U6A900C2000000",
+      "publishedAt": "2026-09-05T20:58:38.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC036QV0T00C26A9000000/",
+      "title": "スマホの月額利用料、半年で5%上昇の4198円　各社の値上げ波及",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC036QV0T00C26A9000000",
+      "publishedAt": "2026-09-05T20:05:54.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "7c7c07db-cde5-474d-9a20-8e2c2f273d4e",
+      "title": "US strikes three Iranian oil tankers in response to attacks on warships",
+      "description": "Military action over Strait of Hormuz continues to escalate after pause in\nsix-month-old conflict",
+      "content": "Military action over Strait of Hormuz continues to escalate after pause in\nsix-month-old conflict",
+      "url": "https://ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-05T20:05:42.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC039C80T00C26A9000000/",
+      "title": "住友商事、送電ロス3割減らす電線　出資先仏社の炭素繊維技術を活用",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC039C80T00C26A9000000",
+      "publishedAt": "2026-09-05T20:01:06.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC07B350X00C26A8000000/",
+      "title": "半導体の正体は超小型スイッチ？　iPhone頭脳にトランジスタ250億個",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC07B350X00C26A8000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCC079YY0X00C26A8000000/",
+      "title": "「牛丼なみ」の高たんぱく冷凍パン　パンフォーユー、サブスクで提供",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCC079YY0X00C26A8000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCC04A8K0U6A800C2000000/",
+      "title": "クマ出没防げ、ドローンで死角を見える化　東京都が新興の技術採用",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCC04A8K0U6A800C2000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD059QX0V00C26A8000000/",
+      "title": "経産官僚を2度辞めて教育現場に　「社会は変えられる」育む高専校長",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD059QX0V00C26A8000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC028XO0S6A900C2000000/",
+      "title": "SBエナジー上場書類解析　砂上の28兆円投資、データ拠点9割未着工",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC028XO0S6A900C2000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA018AP0R00C26A9000000/",
+      "title": "自民党の小野寺税調会長、消費減税「景気条項の余地なく2年で元に」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA018AP0R00C26A9000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQODH2786T0X20C26A8000000/",
+      "title": "低予算でもJ1にいける？　水戸の人件費は2025年5億円",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODH2786T0X20C26A8000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC287JK0Y6A820C2000000/",
+      "title": "三井E&S副社長、採用で重視は「異質な環境を受け入れるタフネス」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC287JK0Y6A820C2000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC017F00R00C26A9000000/",
+      "title": "グミ「硬めもっちり、多彩な食感魅力」　愛好家の会会長に聞く",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC017F00R00C26A9000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC036WD0T00C26A9000000/",
+      "title": "ミャンマーのKFCが「食べるお茶」　伝統の味で打倒ロッテリア",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC036WD0T00C26A9000000",
+      "publishedAt": "2026-09-05T20:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/ubs-commodities-can-add-diversification-as-inflation-geopolitical-risks-rise-4890234",
+      "title": "UBS: Commodities can add diversification as inflation, geopolitical risks rise",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/ubs-commodities-can-add-diversification-as-inflation-geopolitical-risks-rise-4890234",
+      "publishedAt": "2026-09-05T19:17:20.000Z",
+      "author": "Investing.com",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/milei-finds-unity-in-pushback-against-falkland-islands-oil-project-4890233",
+      "title": "Milei finds unity in pushback against Falkland Islands oil project",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/milei-finds-unity-in-pushback-against-falkland-islands-oil-project-4890233",
+      "publishedAt": "2026-09-05T18:36:34.000Z",
+      "author": "Reuters",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.expansion.com/mercados/2026/09/05/6a9c1b4e468aebb5348b4579.html",
+      "title": "El balancín de los mercados de valores",
+      "description": "Un balancín es una palanca anclada en su mitad a un soporte que permite que\nmientras un extremo suba el otro baje, mecanismo de recreo fundamental en los\nparques infantiles junto al columpio y el tobogán donde recibe familiarmente el\nnombre \"subibaja\". Leer",
+      "content": "Un balancín es una palanca anclada en su mitad a un soporte que permite que\nmientras un extremo suba el otro baje, mecanismo de recreo fundamental en los\nparques infantiles junto al columpio y el tobogán donde recibe familiarmente el\nnombre \"subibaja\". Leer\n[https://www.expansion.com/mercados/2026/09/05/6a9c1b4e468aebb5348b4579.html][http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/mercados.xml]",
+      "url": "https://expansion.com/mercados/2026/09/05/6a9c1b4e468aebb5348b4579.html",
+      "publishedAt": "2026-09-05T18:36:15.000Z",
+      "author": "Marcelo Casadejús",
+      "categories": [
+        "Mercados"
+      ],
+      "source": {
+        "name": "expansion.com",
+        "url": "http://www.expansion.com"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/ubs-sees-better-bond-carry-in-35-year-debt-after-global-selloff-4890225",
+      "title": "UBS sees better bond carry in 3-5 year debt after global selloff",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/ubs-sees-better-bond-carry-in-35-year-debt-after-global-selloff-4890225",
+      "publishedAt": "2026-09-05T17:50:46.000Z",
+      "author": "Investing.com",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/sparda-bank-berlin-diese-bank-investiert-in-standorte-im-osten/100248543.html",
+      "title": "Sparda-Bank Berlin: Andere schließen Filialen – diese Bank investiert in Standorte im Osten",
+      "description": "Neo- und digitale Direktbanken machen es klassischen Playern schwer. Die\nSparda-Bank Berlin rüstet sich dagegen mit einer ungewöhnlichen Strategie –\ninklusive radikal neuem Aufbau.",
+      "content": "Neo- und digitale Direktbanken machen es klassischen Playern schwer. Die\nSparda-Bank Berlin rüstet sich dagegen mit einer ungewöhnlichen Strategie –\ninklusive radikal neuem Aufbau.",
+      "url": "https://handelsblatt.com/finanzen/banken-versicherungen/banken/sparda-bank-berlin-diese-bank-investiert-in-standorte-im-osten/100248543.html",
+      "publishedAt": "2026-09-05T16:46:00.000Z",
+      "author": "Franziska Telser",
+      "categories": [
+        "Banken"
+      ],
+      "source": {
+        "name": "handelsblatt.com",
+        "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/japanese-stocks-face-continued-risk-aversion-despite-record-profits-nomura-says-4890218",
+      "title": "Japanese stocks face continued risk aversion despite record profits, Nomura says",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/japanese-stocks-face-continued-risk-aversion-despite-record-profits-nomura-says-4890218",
+      "publishedAt": "2026-09-05T15:35:47.000Z",
+      "author": "Investing.com",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior-4890213",
+      "title": "OpenAI acknowledges ’wiki incident’ and need for more transparency around unintended AI behavior",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior-4890213",
+      "publishedAt": "2026-09-05T15:00:31.000Z",
+      "author": "Reuters",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-may-struggle-to-build-power-fast-enough-to-meet-rising-demand-barclays-says-4890205",
+      "title": "U.S. may struggle to build power fast enough to meet rising demand, Barclays says",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/us-may-struggle-to-build-power-fast-enough-to-meet-rising-demand-barclays-says-4890205",
+      "publishedAt": "2026-09-05T13:54:07.000Z",
+      "author": "Investing.com",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/foxconn-expects-q3-to-beat-market-expectations-as-ai-demand-stays-strong-4890202",
+      "title": "Foxconn expects Q3 to beat market expectations as AI demand stays strong",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/foxconn-expects-q3-to-beat-market-expectations-as-ai-demand-stays-strong-4890202",
+      "publishedAt": "2026-09-05T12:25:24.000Z",
+      "author": "Investing.com",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "6e096712-5abe-48c5-8e4d-c0042f947639",
+      "title": "Treasury sell-off piles pressure on weakest US borrowers",
+      "description": "Spreads on riskiest junk debt have climbed to their highest level since the\nmarket meltdown that followed last year’s ‘liberation day’ tariff blitz",
+      "content": "Spreads on riskiest junk debt have climbed to their highest level since the\nmarket meltdown that followed last year’s ‘liberation day’ tariff blitz",
+      "url": "https://ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-05T11:00:04.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000088.html",
+      "title": "Best CD rates today, Saturday, September 5, 2026: Lock in up to 4.35% APY with an 18-month CD",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-5-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000088.html",
+      "publishedAt": "2026-09-05T10:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-back-across-the-board-arm-volatility-continues-100000745.html",
+      "title": "Mortgage and refinance interest rates today, Saturday, September 5, 2026: Rates roll back across the board; ARM volatility continues",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-5-2026-rates-roll-back-across-the-board-arm-volatility-continues-100000745.html",
+      "publishedAt": "2026-09-05T10:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "6bde3e74-9a7c-4528-9b9c-42a14eec0414",
+      "title": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
+      "description": "Point Bonita, which bankrolled collapsed First Brands Group, emerges as big\ncreditor to Radiant World",
+      "content": "Point Bonita, which bankrolled collapsed First Brands Group, emerges as big\ncreditor to Radiant World",
+      "url": "https://ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-05T04:00:42.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b",
+      "title": "The gloves are starting to come off in markets ",
+      "description": "Wall Street analysts and investors are more willing to directly criticise Trump,\nparticularly since a Treasury intervention on bonds",
+      "content": "Wall Street analysts and investors are more willing to directly criticise Trump,\nparticularly since a Treasury intervention on bonds",
+      "url": "https://ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-05T04:00:33.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "8a7e8202-d800-4fb1-a8f0-eeb4536578f7",
+      "title": "The repo market is the ‘dark matter’ of finance: powerful and perilous",
+      "description": "How worried should we be about the multitrillion-dollar market’s influence over\nthe cosmos of central banks, bonds, pension plans and private credit firms?",
+      "content": "How worried should we be about the multitrillion-dollar market’s influence over\nthe cosmos of central banks, bonds, pension plans and private credit firms?",
+      "url": "https://ft.com/content/8a7e8202-d800-4fb1-a8f0-eeb4536578f7?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-05T04:00:14.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
       }
     },
     {
@@ -522,20 +986,6 @@
       }
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/bloom-energy-illumina-and-everpure-set-to-join-sp-500-in-quarterly-rebalance-4890071",
-      "title": "Bloom Energy, Illumina, and Everpure set to join S&P 500 in quarterly rebalance",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/bloom-energy-illumina-and-everpure-set-to-join-sp-500-in-quarterly-rebalance-4890071",
-      "publishedAt": "2026-09-04T22:29:31.000Z",
-      "author": "Investing.com",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
       "id": "https://www.expansion.com/inversion/2026/09/05/6a9b0e7b468aeb126a8b4581.html",
       "title": "Valores para invertir con el cambio climático",
       "description": "Carrier Global, Trane Technologies, Xylem, Veolia, Schneider Electric y Eaton\nfiguran entre las apuestas internacionales. Los expertos citan también a\nIberdrola, Solaria, Grenergy y Cox. Leer",
@@ -549,66 +999,6 @@
       "source": {
         "name": "expansion.com",
         "url": "http://www.expansion.com"
-      }
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/exclusiveopenai-agents-hijacked-german-website-in-previously-undisclosed-aibreakout-this-spring-4889205",
-      "title": "Exclusive-OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/exclusiveopenai-agents-hijacked-german-website-in-previously-undisclosed-aibreakout-this-spring-4889205",
-      "publishedAt": "2026-09-04T22:18:49.000Z",
-      "author": "Reuters",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/should-investors-buy-microsoft-stock-instead-apple-stock?time=1788560318",
-      "title": "Should Investors Buy Microsoft Stock Instead of Apple Stock?",
-      "description": "Microsoft (NASDAQ: MSFT) and Apple (NASDAQ: AAPL) generate hundreds of billions\nin revenue.",
-      "content": "Microsoft (NASDAQ: MSFT) and Apple (NASDAQ: AAPL) generate hundreds of billions\nin revenue.",
-      "url": "https://nasdaq.com/articles/should-investors-buy-microsoft-stock-instead-apple-stock",
-      "publishedAt": "2026-09-04T22:18:38.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/analysismusk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-4889800",
-      "title": "Analysis-Musk pushes regulatory limits with Tesla’s Cybercab robotaxi service",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/analysismusk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-4889800",
-      "publishedAt": "2026-09-04T22:18:30.000Z",
-      "author": "Reuters",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/rigetti-computing-stock-time-buy-quantum-computing-stock?time=1788560292",
-      "title": "Rigetti Computing Stock: Time to Buy This Quantum Computing Stock?",
-      "description": "Investors are hopeful that quantum stocks could be the next thing to soar after\nAI stocks.",
-      "content": "Investors are hopeful that quantum stocks could be the next thing to soar after\nAI stocks.",
-      "url": "https://nasdaq.com/articles/rigetti-computing-stock-time-buy-quantum-computing-stock",
-      "publishedAt": "2026-09-04T22:18:12.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
       }
     },
     {
@@ -631,249 +1021,73 @@
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/walmart-recalls-great-value-frozen-berries-over-e-coli-contamination-risk?time=1788560049",
-      "title": "Walmart Recalls Great Value Frozen Berries Over E. Coli Contamination Risk ",
-      "description": "(RTTNews) - Walmart (WMT) is recalling a batch of Great Value Organic Triple\nBerry Blend sold in 16 states because the frozen fruit may be contaminated with\nE. coli O145:H28, according to the U.S. Food and Drug Administration.",
-      "content": "(RTTNews) - Walmart (WMT) is recalling a batch of Great Value Organic Triple\nBerry Blend sold in 16 states because the frozen fruit may be contaminated with\nE. coli O145:H28, according to the U.S. Food and Drug Administration.",
-      "url": "https://nasdaq.com/articles/walmart-recalls-great-value-frozen-berries-over-e-coli-contamination-risk",
-      "publishedAt": "2026-09-04T22:14:09.000Z",
-      "author": "RTTNews",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGN04BVO0U6A900C2000000/",
-      "title": "赤沢経産相、米商務長官らと会談　対米投融資はAI・半導体を重視",
+      "id": "daily-etf-flows-ucbg-top-210011527.html",
+      "title": "Daily ETF Flows: UCBG On Top",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGN04BVO0U6A900C2000000",
-      "publishedAt": "2026-09-04T22:03:59.000Z",
+      "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-ucbg-top-210011527.html",
+      "publishedAt": "2026-09-04T21:00:11.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/elon-musk-committed-spacex-building-exclusively-nvidia-heres-what-locks-spacexs-compute?time=1788559386",
-      "title": "Elon Musk Committed SpaceX to Building &quot;Exclusively on Nvidia.&quot; Here's What That Locks In for SpaceX's Compute Bill.",
-      "description": "Key PointsSpaceX spent $15.8 billion on AI computing during the second quarter,\n86% of its capital expenditures.",
-      "content": "Key PointsSpaceX spent $15.8 billion on AI computing during the second quarter,\n86% of its capital expenditures.",
-      "url": "https://nasdaq.com/articles/elon-musk-committed-spacex-building-exclusively-nvidia-heres-what-locks-spacexs-compute",
-      "publishedAt": "2026-09-04T22:03:06.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/why-lululemon-stock-crashed-today?time=1788558944",
-      "title": "Why Lululemon Stock Crashed Today",
-      "description": "Key PointsFashion trends are shifting away from Lululemon's core offerings.",
-      "content": "Key PointsFashion trends are shifting away from Lululemon's core offerings.",
-      "url": "https://nasdaq.com/articles/why-lululemon-stock-crashed-today",
-      "publishedAt": "2026-09-04T21:55:44.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/why-dogecoin-down?time=1788558908",
-      "title": "Why Is Dogecoin Down?",
-      "description": "Key PointsA blowout August jobs report -- 162,000 added versus a 53,000 forecast\n-- pushed September rate-hike odds to about 60%, from roughly 49% before the\nrelease.",
-      "content": "Key PointsA blowout August jobs report -- 162,000 added versus a 53,000 forecast\n-- pushed September rate-hike odds to about 60%, from roughly 49% before the\nrelease.",
-      "url": "https://nasdaq.com/articles/why-dogecoin-down",
-      "publishedAt": "2026-09-04T21:55:08.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-087-4890070",
-      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.87%",
+      "id": "etf-league-tables-hefty-outflow-210005264.html",
+      "title": "ETF League Tables: Hefty Outflow from iShares",
       "description": "",
       "content": "",
-      "url": "https://investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-087-4890070",
-      "publishedAt": "2026-09-04T21:35:03.000Z",
-      "author": "Investing.com",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/boeing-wins-241-million-navy-contract-for-aircraft-repairs-93CH-4890063",
-      "title": "Boeing wins $241 million Navy contract for aircraft repairs",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/boeing-wins-241-million-navy-contract-for-aircraft-repairs-93CH-4890063",
-      "publishedAt": "2026-09-04T21:28:49.000Z",
-      "author": "Investing.com",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/huntington-ingalls-wins-336-million-navy-contract-for-cvn-82-93CH-4890062",
-      "title": "Huntington Ingalls wins $336 million Navy contract for CVN 82",
-      "description": "",
-      "content": "",
-      "url": "https://investing.com/news/stock-market-news/huntington-ingalls-wins-336-million-navy-contract-for-cvn-82-93CH-4890062",
-      "publishedAt": "2026-09-04T21:28:41.000Z",
-      "author": "Investing.com",
-      "categories": [],
-      "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOFL0500O0V00C26A9000000/",
-      "title": "NY円相場、反落　1ドル=156円15〜25銭　米雇用統計で米利上げ観測",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOFL0500O0V00C26A9000000",
-      "publishedAt": "2026-09-04T21:27:17.000Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-hefty-outflow-210005264.html",
+      "publishedAt": "2026-09-04T21:00:05.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOFL0501N0V00C26A9000000/",
-      "title": "日経平均先物、大取の夜間取引で上昇　810円高の6万5830円",
+      "id": "?src=A00220&yptr=yahoo",
+      "title": "Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOFL0501N0V00C26A9000000",
-      "publishedAt": "2026-09-04T21:20:31.000Z",
+      "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu?src=A00220&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:55:37.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOFL04B8T0U6A900C2000000/",
-      "title": "NY債券、長期債反落　10年債利回り4.78%　雇用統計受けて利上げ予想確率上昇",
+      "id": "evercore-turns-bullish-duolingo-stock-204434139.html",
+      "title": "Evercore Turns Bullish on Duolingo Stock as AI Fears Fade",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOFL04B8T0U6A900C2000000",
-      "publishedAt": "2026-09-04T21:11:41.000Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-turns-bullish-duolingo-stock-204434139.html",
+      "publishedAt": "2026-09-04T20:44:34.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOFL04B840U6A900C2000000/",
-      "title": "スマートリング「Oura」が上場へ　「健康×AI」で挑む",
+      "id": "stocks-settle-mostly-lower-hawkish-203552632.html",
+      "title": "Stocks Settle Mostly Lower on Hawkish US Payroll Report",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOFL04B840U6A900C2000000",
-      "publishedAt": "2026-09-04T21:01:54.000Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mostly-lower-hawkish-203552632.html",
+      "publishedAt": "2026-09-04T20:35:52.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOFL050060V00C26A9000000/",
-      "title": "シカゴ日本株先物概況・4日　日経平均先物は1270円高の6万5830円",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOFL050060V00C26A9000000",
-      "publishedAt": "2026-09-04T20:58:34.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOFL050090V00C26A9000000/",
-      "title": "NYダウ、反落し271ドル安　雇用統計受け米利上げ観測高まる",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOFL050090V00C26A9000000",
-      "publishedAt": "2026-09-04T20:56:12.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGN029L00S6A900C2000000/",
-      "title": "アンソロピックに有望AI人材続々、安全思想で結束促す　巨大IPOへ",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGN029L00S6A900C2000000",
-      "publishedAt": "2026-09-04T20:46:48.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGN04B7J0U6A900C2000000/",
-      "title": "米9月利上げ予想優勢に　トランプ氏｢高金利許さず｣、板挟みのFRB議長",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGN04B7J0U6A900C2000000",
-      "publishedAt": "2026-09-04T20:44:22.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGN04BUF0U6A900C2000000/",
-      "title": "米国、トルコの小規模投資銀に制裁　「中国とイランの取引仲介」",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGN04BUF0U6A900C2000000",
-      "publishedAt": "2026-09-04T20:32:10.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -894,6 +1108,202 @@
       }
     },
     {
+      "id": "future-proof-guide-etf-oasis-202601055.html",
+      "title": "Your Future Proof Guide: The ETF Oasis Agenda",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/options/articles/future-proof-guide-etf-oasis-202601055.html",
+      "publishedAt": "2026-09-04T20:26:01.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "?src=A00220&yptr=yahoo",
+      "title": "AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading",
+      "description": "",
+      "content": "",
+      "url": "https://investors.com/news/amc-robinhood-stock-token-dispute-tokenization?src=A00220&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:18:58.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "?src=A00220&yptr=yahoo",
+      "title": "Inside Zeta's Transformation From Hopeful Do-Over To Surging AI Marketing Stock",
+      "description": "",
+      "content": "",
+      "url": "https://investors.com/research/the-new-america/zeta-stock-ai-stock-inference-hyper-personalized-ads?src=A00220&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:12:58.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "?src=A00220&yptr=yahoo",
+      "title": "All That Glitters: How We Traded Gold Stocks Without Chasing",
+      "description": "",
+      "content": "",
+      "url": "https://investors.com/research/swing-trading/all-that-glitters-how-we-traded-gold-stocks-without-chasing?src=A00220&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:12:30.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "5-star-analyst-resets-broadcom-200700817.html",
+      "title": "5-star analyst resets Broadcom stock price target",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-broadcom-200700817.html",
+      "publishedAt": "2026-09-04T20:07:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "stocks-fall-after-hot-jobs-report-2298977c?siteid=yhoof2&yptr=yahoo",
+      "title": "Stocks Fall After Hot Jobs Report",
+      "description": "",
+      "content": "",
+      "url": "https://wsj.com/finance/stocks/stocks-fall-after-hot-jobs-report-2298977c?siteid=yhoof2&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:07:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "fed-fears-overpower-chip-jump-sending-stock-market-lower-d4i8FYZIt53KI2uXxXlL?siteid=yhoof2&yptr=yahoo",
+      "title": "Fed Fears Overpower Chip Jump, Sending Stock Market Lower",
+      "description": "",
+      "content": "",
+      "url": "https://barrons.com/livecoverage/stock-market-news-today-090426/card/fed-fears-overpower-chip-jump-sending-stock-market-lower-d4i8FYZIt53KI2uXxXlL?siteid=yhoof2&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:05:10.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "oil-rises-amid-elevated-supply-disruption-concerns-fa01461e?siteid=yhoof2&yptr=yahoo",
+      "title": "Oil Futures Post Weekly Gains on Middle East Escalation",
+      "description": "",
+      "content": "",
+      "url": "https://wsj.com/finance/commodities-futures/oil-rises-amid-elevated-supply-disruption-concerns-fa01461e?siteid=yhoof2&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:02:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "?src=A00220&yptr=yahoo",
+      "title": "Top Funds Sink Their Teeth Into Apple Stock. Sweet Breakout Ahead?",
+      "description": "",
+      "content": "",
+      "url": "https://investors.com/research/ibd-stock-analysis/apple-stock-finds-massive-ai-fueled-demand-breakout-ahead?src=A00220&yptr=yahoo",
+      "publishedAt": "2026-09-04T20:00:20.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "why-claiming-social-security-70-195900303.html",
+      "title": "Why Claiming Social Security at 70 Could Be the Smartest Retirement Move You Ever Make",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/articles/why-claiming-social-security-70-195900303.html",
+      "publishedAt": "2026-09-04T19:59:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "prediction-taiwan-semiconductor-stock-surge-195000760.html",
+      "title": "Prediction: Taiwan Semiconductor Stock Will Surge by 22% Before 2026 Ends",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-stock-surge-195000760.html",
+      "publishedAt": "2026-09-04T19:50:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "digitaloceans-cfo-sells-over-35-194944588.html",
+      "title": "DigitalOcean's CFO Sells Over 35,000 Shares for $3.8 Million After a 241% One-Year Return",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/digitaloceans-cfo-sells-over-35-194944588.html",
+      "publishedAt": "2026-09-04T19:49:44.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "ast-spacemobile-vs-space-exploration-194901884.html",
+      "title": "AST SpaceMobile vs. Space Exploration Technologies: Which Telecom Stock Is a Better Buy in 2026?",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-space-exploration-194901884.html",
+      "publishedAt": "2026-09-04T19:49:01.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "think-maxed-401-k-real-143000437.html",
+      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/options/articles/think-maxed-401-k-real-143000437.html",
+      "publishedAt": "2026-09-04T19:49:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "3c9d0a82-643b-44ef-96a0-74a00e3c72ba",
       "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
       "description": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street\ndebut as soon as next week",
@@ -905,6 +1315,132 @@
       "source": {
         "name": "ft.com",
         "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "dollar-rises-us-labor-market-193259557.html",
+      "title": "Dollar Rises on US Labor Market Strength",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-us-labor-market-193259557.html",
+      "publishedAt": "2026-09-04T19:32:59.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "weekly-wrap-bitcoin-win-streak-192500774.html",
+      "title": "Weekly Wrap: Bitcoin’s Win Streak Continues",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-win-streak-192500774.html",
+      "publishedAt": "2026-09-04T19:25:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "crude-oil-prices-push-higher-191407242.html",
+      "title": "Crude Oil Prices Push Higher Ahead of Holiday Weekend",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-push-higher-191407242.html",
+      "publishedAt": "2026-09-04T19:14:07.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "defi-development-raises-11m-expand-191300067.html",
+      "title": "DeFi Development Raises $11M to Expand Solana Treasury",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/defi-development-raises-11m-expand-191300067.html",
+      "publishedAt": "2026-09-04T19:13:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "nat-gas-prices-gain-hotter-191257533.html",
+      "title": "Nat-Gas Prices Gain on Hotter US Weather Forecasts",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-gain-hotter-191257533.html",
+      "publishedAt": "2026-09-04T19:12:57.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "capital-b-raises-7-6m-191100965.html",
+      "title": "Capital B Raises €7.6M from Adam Back to Expand Bitcoin Treasury",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/capital-b-raises-7-6m-191100965.html",
+      "publishedAt": "2026-09-04T19:11:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "xenon-xene-heads-europe-data-190611721.html",
+      "title": "Xenon (XENE) Heads To Europe With Data That Could Reshape Epilepsy Care",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/healthcare/articles/xenon-xene-heads-europe-data-190611721.html",
+      "publishedAt": "2026-09-04T19:06:11.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "?src=A00220&yptr=yahoo",
+      "title": "Dynatrace Stock Rapidly Approaches Buy Point After Earnings Gap-Up",
+      "description": "",
+      "content": "",
+      "url": "https://investors.com/stock-lists/ibd-big-cap-20/dynatrace-stock-buy-point-earnings-gap-up?src=A00220&yptr=yahoo",
+      "publishedAt": "2026-09-04T18:59:03.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "construction-partners-road-doubles-down-185538949.html",
+      "title": "Construction Partners (ROAD) Doubles Down On Oklahoma’s Asphalt Supply Chain",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/construction-partners-road-doubles-down-185538949.html",
+      "publishedAt": "2026-09-04T18:55:38.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -1135,6 +1671,20 @@
       }
     },
     {
+      "id": "bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html",
+      "title": "Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html",
+      "publishedAt": "2026-09-04T11:37:51.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "https://www.handelsblatt.com/finanzen/banken-versicherungen/commerzbank-boris-rhein-trifft-unicredit-chef-und-stellt-fuenf-forderungen1234/100252037.html",
       "title": "Übernahme: Boris Rhein trifft Unicredit-Chef – und stellt fünf Forderungen für die Commerzbank-Zukunft",
       "description": "Der hessische Ministerpräsident hat bei einem Treffen mit Andrea Orcel deutlich\ngemacht, was ihm nach der Übernahme der Commerzbank wichtig ist. Vor allem ein\nPunkt birgt Konfliktpotenzial.",
@@ -1307,6 +1857,20 @@
       }
     },
     {
+      "id": "bitcoins-80000-breakout-failed-after-a-blowout-jobs-report-100000584.html",
+      "title": "Bitcoin's $80,000 breakout failed after a blowout jobs report",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-failed-after-a-blowout-jobs-report-100000584.html",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "best-cd-rates-today-friday-september-4-2026-up-to-435-apy-return-available-with-18-month-cd-100000753.html",
       "title": "Best CD rates today, Friday, September 4, 2026: Up to 4.35% APY return available with 18-month CD",
       "description": "",
@@ -1366,6 +1930,20 @@
       "source": {
         "name": "handelsblatt.com",
         "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
+      "id": "stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as blowout jobs report raises odds of a Fed rate hike",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html",
+      "publishedAt": "2026-09-04T08:10:05.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -1559,22 +2137,6 @@
       }
     },
     {
-      "id": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/sparda-bank-berlin-diese-bank-investiert-in-standorte-im-osten/100248543.html",
-      "title": "Sparda-Bank Berlin: Andere schließen Filialen – diese Bank investiert in Standorte im Osten",
-      "description": "Neo- und digitale Direktbanken machen es klassischen Playern schwer. Die\nSparda-Bank Berlin rüstet sich dagegen mit einer ungewöhnlichen Strategie –\ninklusive radikal neuem Aufbau.",
-      "content": "Neo- und digitale Direktbanken machen es klassischen Playern schwer. Die\nSparda-Bank Berlin rüstet sich dagegen mit einer ungewöhnlichen Strategie –\ninklusive radikal neuem Aufbau.",
-      "url": "https://handelsblatt.com/finanzen/banken-versicherungen/banken/sparda-bank-berlin-diese-bank-investiert-in-standorte-im-osten/100248543.html",
-      "publishedAt": "2026-09-04T02:00:00.000Z",
-      "author": "Franziska Telser",
-      "categories": [
-        "Banken"
-      ],
-      "source": {
-        "name": "handelsblatt.com",
-        "url": "https://www.handelsblatt.com"
-      }
-    },
-    {
       "id": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-konsum-in-japan-bricht-ueberraschend-stark-ein/100251940.html",
       "title": "Inflation: Konsum in Japan bricht überraschend stark ein",
       "description": "Steigende Lebenshaltungskosten setzen Japans Verbraucher zunehmend unter Druck.\nDie schwache Binnennachfrage könnte auch für die anstehende Zinsentscheidung der\nNotenbank eine Rolle spielen.",
@@ -1662,451 +2224,17 @@
       }
     },
     {
-      "id": "ai-data-center-boom-pushes-220000299.html",
-      "title": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
+      "id": "lululemon-sinks-after-cutting-forecast-as-revenue-declines-210101310.html",
+      "title": "Lululemon sinks after cutting forecast as revenue declines",
       "description": "",
       "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-boom-pushes-220000299.html",
-      "publishedAt": "2026-09-03T22:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "wheat-faces-thursday-losses-putin-215523026.html",
-      "title": "Wheat Faces Thursday Losses on Putin Comments",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-faces-thursday-losses-putin-215523026.html",
-      "publishedAt": "2026-09-03T21:55:23.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "jim-cramer-notes-cardinal-health-215255968.html",
-      "title": "Jim Cramer Notes Cardinal Health (CAH) is “Too Attractive to Ignore”",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-notes-cardinal-health-215255968.html",
-      "publishedAt": "2026-09-03T21:52:55.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "jim-cramer-rubrik-rbrk-just-214604104.html",
-      "title": "Jim Cramer on Rubrik (RBRK): “It Just Came in Maybe Too Hot”",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-rubrik-rbrk-just-214604104.html",
-      "publishedAt": "2026-09-03T21:46:04.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "cheapest-freight-isn-t-best-214428379.html",
-      "title": "Cheapest Freight Isn’t Best When Delays Cost Millions",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/small-business/articles/cheapest-freight-isn-t-best-214428379.html",
-      "publishedAt": "2026-09-03T21:44:28.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "nvidia-5-billion-intel-bet-213940172.html",
-      "title": "Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-5-billion-intel-bet-213940172.html",
-      "publishedAt": "2026-09-03T21:39:40.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "palladyne-ai-revenue-jumped-470-213636719.html",
-      "title": "Palladyne AI’s Revenue Jumped 470%, but Its Operating Loss Widened. Is the Backlog Enough?",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palladyne-ai-revenue-jumped-470-213636719.html",
-      "publishedAt": "2026-09-03T21:36:36.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "coinbase-files-sec-approval-offer-212348530.html",
-      "title": "Coinbase files for SEC approval to offer equity perpetuals",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/news/coinbase-files-sec-approval-offer-212348530.html",
-      "publishedAt": "2026-09-03T21:30:53.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "hilton-food-serves-guidance-upgrade-063349424.html",
-      "title": "Hilton Food Serves Up a Guidance Upgrade",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hilton-food-serves-guidance-upgrade-063349424.html",
-      "publishedAt": "2026-09-03T21:21:18.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "bank-first-director-tracy-pearson-211001815.html",
-      "title": "Bank First Director Tracy Pearson Buys 1,024 Shares",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-first-director-tracy-pearson-211001815.html",
-      "publishedAt": "2026-09-03T21:10:01.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "basis-industrial-lands-20-5m-210924889.html",
-      "title": "Basis Industrial Lands $20.5M Loan for Surprise Self-Storage",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/real-estate/articles/basis-industrial-lands-20-5m-210924889.html",
-      "publishedAt": "2026-09-03T21:09:24.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "coinbase-circle-microstrategy-stocks-surge-210600203.html",
-      "title": "Coinbase, Circle, MicroStrategy stocks surge on crypto rebound",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-circle-microstrategy-stocks-surge-210600203.html",
-      "publishedAt": "2026-09-03T21:06:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "mortgage-rates-just-hit-1-210301731.html",
-      "title": "Mortgage Rates Just Hit a 1-Year High. Here’s What That Means for Lowe’s and Home Depot Investors.",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-just-hit-1-210301731.html",
-      "publishedAt": "2026-09-03T21:03:01.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "financial-services-roundup-market-talk-7bcb348f?siteid=yhoof2&yptr=yahoo",
-      "title": "Financial Services Roundup: Market Talk",
-      "description": "",
-      "content": "",
-      "url": "https://wsj.com/business/financial-services-roundup-market-talk-7bcb348f?siteid=yhoof2&yptr=yahoo",
-      "publishedAt": "2026-09-03T21:03:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "stocks-bonds-rally-after-dovish-fed-comments-b95763ae?siteid=yhoof2&yptr=yahoo",
-      "title": "Stocks, Bonds Rally After Dovish Fed Comments",
-      "description": "",
-      "content": "",
-      "url": "https://wsj.com/finance/stocks/stocks-bonds-rally-after-dovish-fed-comments-b95763ae?siteid=yhoof2&yptr=yahoo",
-      "publishedAt": "2026-09-03T21:03:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "basic-materials-roundup-market-talk-02178c2b?siteid=yhoof2&yptr=yahoo",
-      "title": "Basic Materials Roundup: Market Talk",
-      "description": "",
-      "content": "",
-      "url": "https://wsj.com/business/basic-materials-roundup-market-talk-02178c2b?siteid=yhoof2&yptr=yahoo",
-      "publishedAt": "2026-09-03T21:03:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "yall-street-continues-power-trophy-210220525.html",
-      "title": "Y'all Street Powers Trophy Office Momentum In Uptown Dallas",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/real-estate/articles/yall-street-continues-power-trophy-210220525.html",
-      "publishedAt": "2026-09-03T21:02:20.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "poured-stadium-foundation-december-7-210101259.html",
-      "title": "He Poured Stadium Foundation in December. His $7,500 January Paycheck Still Counted Against Social Security’s Old Limit.",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/poured-stadium-foundation-december-7-210101259.html",
+      "url": "https://finance.yahoo.com/markets/article/lululemon-sinks-after-cutting-forecast-as-revenue-declines-210101310.html",
       "publishedAt": "2026-09-03T21:01:01.000Z",
       "author": null,
       "categories": [],
       "source": {
         "name": "finance.yahoo.com",
         "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "etf-league-tables-goldman-gains-210004619.html",
-      "title": "ETF League Tables: Goldman Gains $222M",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-goldman-gains-210004619.html",
-      "publishedAt": "2026-09-03T21:00:04.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "daily-etf-flows-sgov-takes-210004234.html",
-      "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-sgov-takes-210004234.html",
-      "publishedAt": "2026-09-03T21:00:04.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "tech-media-telecom-roundup-market-talk-e1e355e0?siteid=yhoof2&yptr=yahoo",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "description": "",
-      "content": "",
-      "url": "https://wsj.com/business/tech-media-telecom-roundup-market-talk-e1e355e0?siteid=yhoof2&yptr=yahoo",
-      "publishedAt": "2026-09-03T20:59:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "caesarstone-premium-multi-material-differentiated-205526725.html",
-      "title": "Caesarstone’s Premium Multi-Material & Differentiated Model Proposition – Initiation Report",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caesarstone-premium-multi-material-differentiated-205526725.html",
-      "publishedAt": "2026-09-03T20:55:26.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Robinhood Breaks Out. Analysts Bullish On Outlook, Prediction Markets.",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/research/ibd-stock-of-the-day/robinhood-stock-breakout-ibd-stock-of-the-day-analyst-upgrades-price-target-event-contracts-options-crypto?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-09-03T20:54:57.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Ultragenyx's 'Fall From Grace' — Shares Crash 44%, Hitting A Record Low",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/technology/ultragenyx-stock-angelman-syndrome-failure?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-09-03T20:52:58.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Broadcom Forecasts Steep Ramp In AI Revenue",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/technology/broadcom-stock-steep-ai-revenue-ramp-forecast?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-09-03T20:51:49.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Chipmaker Ambarella Posts Mixed Fiscal Q2 Earnings Report",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/technology/amba-stock-ambarella-fiscal-q2-2027-earnings?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-09-03T20:51:38.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Nvidia Buying AI Platform Hugging Face For $12.9 Billion",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/technology/nvidia-stock-hugging-face-acquisition?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-09-03T20:47:54.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "john-wiley-sons-inc-q1-204629497.html",
-      "title": "John Wiley & Sons, Inc. Q1 2027 Earnings Call Summary",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/john-wiley-sons-inc-q1-204629497.html",
-      "publishedAt": "2026-09-03T20:46:29.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "q-mountain-future-liquidity-pe-204539081.html",
-      "title": "Q&A: New Mountain on the future of liquidity in PE",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q-mountain-future-liquidity-pe-204539081.html",
-      "publishedAt": "2026-09-03T20:45:39.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "stocks-finish-sharply-higher-reduced-203749058.html",
-      "title": "Stocks Finish Sharply Higher on Reduced Fed Rate Hike Chances",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-sharply-higher-reduced-203749058.html",
-      "publishedAt": "2026-09-03T20:37:49.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, SpaceX Rise As Cybercab Event Nears (Live Coverage)",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-09-03T20:29:41.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "bd24a8d5-36a3-4a10-ab31-f7f37552fc90",
-      "title": "Dear Brits, please save more",
-      "description": "The UK, like many countries, faces a major pensions shortfall",
-      "content": "The UK, like many countries, faces a major pensions shortfall",
-      "url": "https://ft.com/content/bd24a8d5-36a3-4a10-ab31-f7f37552fc90?syn-25a6b1a6=1",
-      "publishedAt": "2026-09-03T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
       }
     },
     {
@@ -2176,34 +2304,6 @@
       }
     },
     {
-      "id": "5e9db3c2-70c0-40da-8767-88dcbaf8cfc5",
-      "title": "EU enters winter with lowest gas stocks on record",
-      "description": "Situation could become ‘problematic’, warns gas storage group head",
-      "content": "Situation could become ‘problematic’, warns gas storage group head",
-      "url": "https://ft.com/content/5e9db3c2-70c0-40da-8767-88dcbaf8cfc5?syn-25a6b1a6=1",
-      "publishedAt": "2026-09-03T17:46:12.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
-      }
-    },
-    {
-      "id": "b4c17a07-f684-44c7-b334-8b7bcb1a21d6",
-      "title": "Star Citadel trader to step down amid tumult in energy markets",
-      "description": "Chris Foster to leave role at Ken Griffin’s hedge fund after making billions of\ndollars trading natural gas in Europe",
-      "content": "Chris Foster to leave role at Ken Griffin’s hedge fund after making billions of\ndollars trading natural gas in Europe",
-      "url": "https://ft.com/content/b4c17a07-f684-44c7-b334-8b7bcb1a21d6?syn-25a6b1a6=1",
-      "publishedAt": "2026-09-03T17:29:32.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
-      }
-    },
-    {
       "id": "https://www.expansion.com/mercados/bitcoin/2026/09/03/6a99ab05468aeb2c7a8b457f.html",
       "title": "El bitcoin supera los 81.000 dólares al subir casi un 5%",
       "description": "La criptomoneda toca niveles de mayo y retoma su buena racha tras el anuncio del\nplan de compra de deuda del Tesoro estadounidense. Leer",
@@ -2257,20 +2357,6 @@
       }
     },
     {
-      "id": "d6c24b34-1520-4dc4-8996-83eab8e81941",
-      "title": "Revolut wins provisional US banking licence",
-      "description": "Office of the Comptroller of the Currency approval is a milestone for UK-based\nfintech seeking American expansion",
-      "content": "Office of the Comptroller of the Currency approval is a milestone for UK-based\nfintech seeking American expansion",
-      "url": "https://ft.com/content/d6c24b34-1520-4dc4-8996-83eab8e81941?syn-25a6b1a6=1",
-      "publishedAt": "2026-09-03T15:48:45.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
-      }
-    },
-    {
       "id": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-die-neuen-weltraum-etfs-enttaeuschen/100250772.html",
       "title": "Geldanlage: Die neuen Weltraum-ETFs enttäuschen – was bringen Themenfonds wirklich?",
       "description": "In den vergangenen Monaten sind gleich mehrere Börsenfonds speziell für\nWeltraumaktien auf den Markt gekommen. Nicht nur die jüngsten Renditen mahnen\naber zur Vorsicht, meint Martin Müller.",
@@ -2303,20 +2389,6 @@
       }
     },
     {
-      "id": "social-security-see-whats-really-changing-in-2027-144723278.html",
-      "title": "Social Security: See what's really changing in 2027",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/social-security-see-whats-really-changing-in-2027-144723278.html",
-      "publishedAt": "2026-09-03T14:47:23.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
       "id": "https://www.expansion.com/empresas/2026/09/03/6a9979a1468aeb684e8b458a.html",
       "title": "UBS reduce su participación en Indra hasta el 2,6%",
       "description": "La entidad suiza llegó a tener una participación del 8,2% en el grupo\nespañol. Leer",
@@ -2332,20 +2404,6 @@
       "source": {
         "name": "expansion.com",
         "url": "http://www.expansion.com"
-      }
-    },
-    {
-      "id": "41017d78-2d1c-4a41-9dee-c9237179d616",
-      "title": "Blackstone stands firm with cap on private credit outflows",
-      "description": "Flagship $43bn fund said it was hit with notices from investors to pull 10% of\nthe vehicle’s value in the third quarter",
-      "content": "Flagship $43bn fund said it was hit with notices from investors to pull 10% of\nthe vehicle’s value in the third quarter",
-      "url": "https://ft.com/content/41017d78-2d1c-4a41-9dee-c9237179d616?syn-25a6b1a6=1",
-      "publishedAt": "2026-09-03T13:47:41.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
       }
     },
     {
@@ -2387,20 +2445,6 @@
       }
     },
     {
-      "id": "22abbb77-1344-4871-9692-97a779b1ba77",
-      "title": "Yen surges as traders bet on Japan interest rate rises",
-      "description": "Currency moves past ¥156 to the dollar after sudden jump overnight",
-      "content": "Currency moves past ¥156 to the dollar after sudden jump overnight",
-      "url": "https://ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
-      "publishedAt": "2026-09-03T12:57:45.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
-      }
-    },
-    {
       "id": "https://www.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html",
       "title": "El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'",
       "description": "El DNB se decanta por Londres frente a la ciudad estadounidense, alegando una\nmayor 'negociabilidad' del metal precioso. Leer",
@@ -2438,76 +2482,6 @@
       "source": {
         "name": "expansion.com",
         "url": "http://www.expansion.com"
-      }
-    },
-    {
-      "id": "bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-this-morning-despite-oil-costs-gaining-steam-113526770.html",
-      "title": "Bitcoin and ethereum prices today, Thursday, September 3, 2026: Crypto prices lift this morning despite oil costs gaining steam",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-this-morning-despite-oil-costs-gaining-steam-113526770.html",
-      "publishedAt": "2026-09-03T11:35:26.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "silver-price-today-thursday-september-3-2026-silver-prices-rise-following-short-lived-airstrikes-111653911.html",
-      "title": "Silver price today, Thursday, September 3, 2026: Silver prices rise following short-lived airstrikes",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-3-2026-silver-prices-rise-following-short-lived-airstrikes-111653911.html",
-      "publishedAt": "2026-09-03T11:16:53.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "gold-price-today-thursday-september-3-2026-gold-moves-higher-on-hopes-that-iran-war-reescalation-will-be-short-lived-110444019.html",
-      "title": "Gold price today, Thursday, September 3, 2026: Gold moves higher on hopes that Iran war reescalation will be short-lived",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-3-2026-gold-moves-higher-on-hopes-that-iran-war-reescalation-will-be-short-lived-110444019.html",
-      "publishedAt": "2026-09-03T11:04:44.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest-rates-today-thursday-september-3-2026-100000627.html",
-      "title": "Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest-rates-today-thursday-september-3-2026-100000627.html",
-      "publishedAt": "2026-09-03T10:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "best-cd-rates-today-thursday-september-3-2026-lock-in-up-to-430-apy-with-an-18-month-cd-100000861.html",
-      "title": "Best CD rates today, Thursday, September 3, 2026: Lock in up to 4.30% APY with an 18-month CD",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-3-2026-lock-in-up-to-430-apy-with-an-18-month-cd-100000861.html",
-      "publishedAt": "2026-09-03T10:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -3019,26 +2993,6 @@
       }
     },
     {
-      "id": "https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html",
-      "title": "La línea roja del mercado ante la que Estados Unidos va a acudir al rescate",
-      "description": "La gran batalla del otoño tendrá como escenario la deuda americana. Leer",
-      "content": "La gran batalla del otoño tendrá como escenario la deuda americana. Leer\n[https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html][http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/mercados.xml]",
-      "url": "https://expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html",
-      "publishedAt": "2026-08-31T18:47:23.000Z",
-      "author": "Roberto Casado",
-      "categories": [
-        "Mercados",
-        "Inversión",
-        "Bolsa de Wall Street",
-        "Artículos Roberto Casado",
-        "Renta Fija"
-      ],
-      "source": {
-        "name": "expansion.com",
-        "url": "http://www.expansion.com"
-      }
-    },
-    {
       "id": "best-high-yield-savings-interest-rates-today-friday-september-4-2026-earn-up-to-410-apy-100000500.html",
       "title": "Best high-yield savings interest rates today, Friday, September 4, 2026: Earn up to 4.10% APY",
       "description": "",
@@ -3067,12 +3021,26 @@
       }
     },
     {
-      "id": "best-wells-fargo-credit-cards-164310496.html",
-      "title": "Best Wells Fargo credit cards (2026)",
+      "id": "nvidia-stock-moves-closer-to-all-time-high-193309793.html",
+      "title": "Nvidia stock moves closer to all-time high",
       "description": "",
       "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html",
-      "publishedAt": "2026-06-01T16:43:10.000Z",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html",
+      "publishedAt": "2026-07-27T19:33:09.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "how-to-save-money-on-gas-and-big-savings-on-diesel-labor-day-weekend-194922134.html",
+      "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-on-gas-and-big-savings-on-diesel-labor-day-weekend-194922134.html",
+      "publishedAt": "2026-05-21T19:49:22.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -3120,20 +3088,6 @@
       "source": {
         "name": "marketwatch.com",
         "url": "https://www.marketwatch.com/column/market-pulse"
-      }
-    },
-    {
-      "id": "when-will-mortgage-rates-go-down-the-signs-to-watch-for-190610094.html",
-      "title": "When will mortgage rates go down? The signs to watch for.",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-the-signs-to-watch-for-190610094.html",
-      "publishedAt": "2025-04-22T19:06:10.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -3445,6 +3399,20 @@
       }
     },
     {
+      "id": "bread-savings-review-203340890.html",
+      "title": "Bread Savings review (2026): Home to high-interest online savings and CD accounts",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/review/bread-savings-review-203340890.html",
+      "publishedAt": "2024-09-19T20:33:40.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "WP-MKTW-0003628095",
       "title": "Moody’s places all of Boeing’s ratings on review for a downgrade",
       "description": "",
@@ -3557,12 +3525,26 @@
       }
     },
     {
-      "id": "why-are-home-prices-so-high-factors-contributing-to-current-housing-costs-184935469.html",
-      "title": "Why are home prices so high? How today's market impacts housing costs.",
+      "id": "money-saving-apps-230925997.html",
+      "title": "6 money-saving apps to help you grow your wealth",
       "description": "",
       "content": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/why-are-home-prices-so-high-factors-contributing-to-current-housing-costs-184935469.html",
-      "publishedAt": "2024-04-02T18:49:35.000Z",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/money-saving-apps-230925997.html",
+      "publishedAt": "2024-06-03T23:09:25.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "is-the-stock-market-open-on-labor-day-heres-the-holiday-trading-schedule-for-2026-210239142.html",
+      "title": "Is the stock market open on Labor Day? Here's the holiday trading schedule for 2026.",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-heres-the-holiday-trading-schedule-for-2026-210239142.html",
+      "publishedAt": "2024-03-25T21:02:39.000Z",
       "author": null,
       "categories": [],
       "source": {
