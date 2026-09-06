@@ -1,47 +1,71 @@
 [
   {
-    "title": "Alerta máxima por deslizamientos en Yakushima tras lluvias torrenciales por tifón",
-    "summary": "Las autoridades emitieron una alerta especial de nivel 5 en la isla de Yakushima por riesgo extremo de deslizamientos de tierra debido a las intensas precipitaciones.",
+    "title": "Alerta por lluvias torrenciales y riesgo de deslizamientos en amplias zonas de Japón",
+    "summary": "Frentes y tifones provocan precipitaciones récord y avisos especiales en el Pacífico, afectando al transporte.",
     "source": [
       "news.yahoo.co.jp",
+      "yomiuri.co.jp",
+      "mainichi.jp",
+      "nikkei.com",
+      "asahi.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Incendio en una pastelería de Gifu deja dos muertos; se investiga posible incendio provocado",
+    "summary": "Testigos reportaron apuñalamiento y gasolina antes del fuego; la policía trata el caso como homicidio.",
+    "source": [
+      "news.yahoo.co.jp",
+      "nikkei.com",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 4
+  },
+  {
+    "title": "EE. UU. ataca petroleros iraníes en el estrecho de Ormuz en represalia por agresiones previas",
+    "summary": "El Comando Central destruye tres buques de la Guardia Revolucionaria, escalando la tensión en el Golfo.",
+    "source": [
+      "mainichi.jp",
+      "nikkei.com",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Japón cae ante Alemania en el Mundial femenino de baloncesto y queda 1-1 en el grupo",
+    "summary": "Las japonesas solo anotaron tres triples y no pudieron contrarrestar la defensa rival.",
+    "source": [
+      "mainichi.jp",
       "nikkei.com",
       "yomiuri.co.jp"
     ],
     "count": 3
   },
   {
-    "title": "Padre de niña fallecida en autobús escolar expresa arrepentimiento tras cuatro años",
-    "summary": "El padre de la niña que murió abandonada en un autobús guardería en Shizuoka compareció ante la prensa lamentando no haber podido salvarla.",
-    "source": [
-      "news.yahoo.co.jp",
-      "nikkei.com",
-      "mainichi.jp"
-    ],
-    "count": 3
-  },
-  {
-    "title": "La ONU aprueba una resolución para abandonar la proyección de Mercator en mapas oficiales",
-    "summary": "La Asamblea General insta a usar proyecciones que representen con precisión el tamaño de África, corrigiendo la distorsión del mapa tradicional.",
+    "title": "Deslizamiento en Nepal deja más de 1.300 muertos y miles de desaparecidos; la identificación avanza lento",
+    "summary": "Las autoridades luchan por recuperar cuerpos en una zona remota mientras las familias esperan noticias.",
     "source": [
       "nikkei.com",
-      "news.yahoo.co.jp",
-      "asahi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Fuerte creación de empleo en EE.UU. dispara las apuestas de subida de tipos y hunde la bolsa",
-    "summary": "La economía estadounidense generó 162.000 puestos en agosto, superando previsiones, lo que elevó la rentabilidad de los bonos y provocó caídas en Wall Street.",
-    "source": [
       "yomiuri.co.jp",
-      "nikkei.com",
       "asahi.com"
     ],
     "count": 3
   },
   {
-    "title": "Rescatados dos hombres de un túnel tras un alud en Nepal tras días atrapados",
-    "summary": "Dos supervivientes fueron hallados con vida en un túnel sepultado por un deslizamiento de tierra en Nepal, mientras continúan las labores de búsqueda de más víctimas.",
+    "title": "Enviado de Trump se reúne con Putin y Zelenski para presentar plan de fin de la guerra en Ucrania",
+    "summary": "La misión busca un alto el fuego, pero Moscú muestra poca disposición a ceder terreno.",
+    "source": [
+      "nikkei.com",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Naomi Osaka alcanza los octavos de final del US Open por segundo año consecutivo",
+    "summary": "La tenista japonesa venció a Elise Mertens y avanza a la cuarta ronda del torneo neoyorquino.",
     "source": [
       "mainichi.jp",
       "yomiuri.co.jp"
@@ -49,53 +73,44 @@
     "count": 2
   },
   {
-    "title": "Detenido un joven de 18 años por la muerte de su bebé de dos meses en Hiroshima",
-    "summary": "La policía arrestó al padre del menor, quien habría colocado una bolsa de plástico en la cabeza del bebé, aunque niega los cargos.",
+    "title": "Tanaka Ao da una asistencia en el gol inaugural de la Premier League",
+    "summary": "El centrocampista japonés contribuyó al primer tanto de su equipo en la liga inglesa.",
     "source": [
       "mainichi.jp",
-      "asahi.com"
+      "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Escándalo de falsificación de datos en Nidec: 844 casos y presión de la dirección",
-    "summary": "Una investigación externa reveló cientos de irregularidades en los controles de calidad de Nidec, señalando la presión del fundador y directivos como causa raíz.",
+    "title": "El príncipe Hisahito cumple 20 años y agradece el apoyo recibido",
+    "summary": "El heredero imperial ha profundizado sus estudios de biología y aumentado sus actos oficiales.",
     "source": [
-      "yomiuri.co.jp",
-      "asahi.com"
+      "asahi.com",
+      "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "Descubiertas dos nuevas especies fósiles en Japón: un 'dragón acorazado' y una forma similar a helado",
-    "summary": "Investigadores identificaron un nuevo género de dinosaurio acorazado en Hokkaido y una extraña criatura del Cretácico en una cantera, ambas desconocidas hasta ahora.",
+    "title": "Munetaka Murakami logra su jonrón 30, primer japonés en lograrlo en su temporada de novato en MLB",
+    "summary": "El bateador de los Yankees conectó un cuadrangular de dos carreras para alcanzar la cifra redonda.",
+    "source": [
+      "mainichi.jp",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Kura Sushi cancela su colaboración con 'Chiikawa' tras detectar robo masivo de peluches por empleados",
+    "summary": "Los artículos sustraídos aparecieron en Mercari; la cadena pide disculpas y ofrece descuentos.",
     "source": [
       "news.yahoo.co.jp",
-      "nikkei.com"
+      "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "El ministro Redzawa se reúne con EE.UU. para coordinar inversiones en semiconductores e IA",
-    "summary": "El titular de Economía japonés confirmó la aplicación de medidas arancelarias excepcionales y abordó la cooperación en tecnología avanzada con su homólogo estadounidense.",
-    "source": [
-      "yomiuri.co.jp",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El lanzador de los Gigantes Takehara brilla en su regreso a Hiroshima con 10 ponches",
-    "summary": "Kazuyuki Takehara, originario de Hiroshima, logró una dominante actuación de seis entradas sin carreras en su primer partido en casa desde 2021.",
-    "source": [
-      "yomiuri.co.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Partido Demócrata Constitucional se fractura en dos grupos parlamentarios distintos",
-    "summary": "La formación centrista se divide oficialmente en 'división' y 'facción', lo que afectará la distribución de fondos públicos para partidos.",
+    "title": "Japón planea ampliar su red de satélites espía a más de 100 para detectar lanzadores móviles de misiles",
+    "summary": "El gobierno busca disuadir amenazas y crear un mercado de imágenes geoespaciales con fines civiles.",
     "source": [
       "news.yahoo.co.jp",
       "yomiuri.co.jp"
