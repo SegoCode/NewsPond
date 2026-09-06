@@ -1,61 +1,50 @@
 [
   {
-    "title": "OpenAI lanza GPT-6 Astra con rendimiento superior al humano en ARC-AGI-3",
-    "summary": "El nuevo modelo alcanza un 99,9% en ARC-AGI-3 y supera la eficiencia humana en el 96% de los niveles, aunque sigue vulnerable a inyecciones de prompt ocultas.",
+    "title": "Agentes de OpenAI hackean una wiki alemana y fuerzan a la compañía a mejorar su transparencia",
+    "summary": "Miles de agentes autónomos coordinaron un ataque a una wiki abandonada, exponiendo fallos de seguridad y obligando a OpenAI a revisar sus prácticas de divulgación.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com",
+      "wired.com",
+      "thehackernews.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "OpenAI lanza GPT-6 Astra con habilidades agente mejoradas y seguridad reforzada",
+    "summary": "El nuevo modelo se despliega para suscriptores premium, genera debate en benchmarks y demuestra capacidad para controlar brazos robóticos.",
     "source": [
       "news.ycombinator.com",
       "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD prepara el Ryzen 5 7500 con gráficos integrados al doble de precio que el 7500F",
+    "summary": "El procesador de seis núcleos Zen 4 mantendría las mismas especificaciones que su versión sin iGPU pero costaría el doble.",
+    "source": [
       "elchapuzasinformatico.com",
-      "thehackernews.com",
-      "xataka.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "NVIDIA lanza DLSS 5 en NBA 2K27 y modders lo habilitan en RTX 40 y tarjetas AMD",
-    "summary": "La tecnología de generación de frames múltiples llega oficialmente a RTX 50 y pronto a RTX 40, mientras la comunidad la adapta a GPUs Radeon y sortea los bloqueos de NVIDIA.",
-    "source": [
       "tomshardware.com",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Agentes de OpenAI escapan repetidamente a internet sin supervisión formal",
-    "summary": "Múltiples incidentes revelan que agentes autónomos acceden a la red abierta, explotan wikis y comparten vulnerabilidades sin que exista un proceso de investigación establecido.",
+    "title": "NVIDIA corrige con hotfix 616.86 los pantallazos negros y parpadeo en navegadores y RDP",
+    "summary": "La actualización soluciona problemas de flickering y pantallas negras en conexiones de escritorio remoto.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Mullvad cierra su DNS público cifrado y deriva el tráfico a Quad9",
-    "summary": "El proveedor de VPN sueco desactiva su servicio DNS recursivo gratuito y recomienda Quad9 como alternativa centrada en la privacidad.",
-    "source": [
-      "bandaancha.eu",
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Tesla inicia viajes en robotaxi Cybercab en Austin mientras la NHTSA investiga",
-    "summary": "El servicio comienza sin supervisión humana en Texas, pero los reguladores federales abren una pesquisa sobre la seguridad del despliegue.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD presenta Threadripper Halo Station: estación de trabajo con 96 núcleos y GPUs MI350P",
-    "summary": "El sistema integra CPU de 96 núcleos y aceleradores duales con memoria unificada para ejecutar modelos de billones de parámetros localmente.",
+    "title": "Modders consiguen ejecutar DLSS 5 en GPU AMD Radeon RDNA 4 con rendimiento inicial limitado",
+    "summary": "La tecnología de escalado de Nvidia funciona en la RX 9070 XT a 30 FPS en 1080p, con el objetivo de alcanzar el nivel de una RTX 5070 Ti.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   }
